@@ -7,8 +7,8 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-1.10.1.min.map"></script>      
     <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-1.10.1.min.js"></script>
+    <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.caroufredsel/jquery.carouFredSel-6.2.1.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-transition.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-alert.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-modal.js"></script>
@@ -25,7 +25,6 @@
     <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/jCarouselLite.js"></script>
     <script src="<?php echo get_template_directory_uri(); ?>/js/otherCarrusel.js"></script>
-
     <script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
   
   </body>

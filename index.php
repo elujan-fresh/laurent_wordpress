@@ -11,8 +11,7 @@
             <li><div id="carruselImg2"></div></li>
             <li><div id="carruselImg3"></div></li>
             <li><div id="carruselImg4"></div></li>
-            <li><div id="carruselImg1"></div></li>
-            <li><div id="carruselImg2"></div></li>
+        
 
            
           </ul>
