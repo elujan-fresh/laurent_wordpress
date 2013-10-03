@@ -1112,5 +1112,87 @@
         color: #7a716f;
     }
 
+
+
+/* ABOUT */
+    #aboutContent
+    {
+        width: 480px;
+        height: 783px;
+        background-color: #919191;
+        margin: 0 auto;
+        margin-top: 20px;
+        font-family: brixslab-light;
+
+        background-image: url('../img/480/about/background.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin:content-box;
+        background-size:100% 100%;
+
+    }
+    #about_img 
+    {
+        float: left;
+        width: 115px;
+        height: 155px;
+        margin-top: 18px;
+        margin-left: 49px;
+        background-image: url('../img/480/about/image1.png');
+
+    }
+
+    #about_img > img
+    {
+        height:164px;
+        width:122px; 
+        margin-left: 49px; margin-top: 49px;   
+    }
+
+    #aboutAuthor
+    {
+        margin-top: 14px; margin-left: 20px;
+        float: left;
+        width: 290px;
+    }
+
+    .about_title
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 16pt;
+        font-family: brixslab-light;
+
+    }
+
+    .about_info
+    {
+        color: black;
+        font-size: 11pt;
+        width: 270px;
+    }
+     #aboutAwards
+    {
+        margin-top: 14px; margin-left: 20px;
+        float: left;
+        width: 290px;
+    }
+
+   .about_infoAwards
+    {
+        color: black;
+        font-size: 11pt;
+        width: 270px;
+    }
+
+.about_titleAwards
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 17pt;
+        font-family: brixslab-light;
+
+    }
+/* end ABOUT */
 }
 /* end 320 v2*/

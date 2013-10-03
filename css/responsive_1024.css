@@ -1144,6 +1144,106 @@
         color: #7a716f;
     }
 
+
+/* ABOUT */
+    #aboutContent
+    {
+        width: 914px;
+        height: 798px;
+        background-color: #919191;
+        margin: 0 auto;
+        margin-top: 26px;
+        font-family: brixslab-light;
+
+        background-image: url('../img/1024/fondo_about.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin:content-box;
+        background-size:100% 100%;
+
+    }
+
+    #about_img 
+    {
+        float: left;
+        width: 234px;
+        height: 322px;
+        margin-top: 35px;
+        margin-left: 50px;
+        background-image: url('../img/1024/biophotoBig.png');
+
+    }
+
+    #aboutAuthor
+    {
+        margin-top: 25px;
+        margin-left: 52px;
+        float: left;
+        width: 528px;
+    }
+
+    .about_title
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 20pt;
+        font-family: brixslab-light;
+
+    }
+
+    .about_info
+    {
+        margin-top: 18px; 
+        float: left;
+        width: 491px;
+        font-size: 10pt;
+        color: black;
+
+    }
+
+    #aboutAwards
+    {
+        margin-top: -348px;
+        margin-left: 623px;
+        float: left;
+        width: 280px;
+    }
+
+   .about_infoAwards
+    {
+        color: black;
+        font-size: 10pt;
+        width: 229px;
+
+    }
+
+    .about_titleAwards
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 17pt;
+        font-family: brixslab-light;
+
+    }
+
+    #aboutAuthorSmall
+    {
+        display: none;
+    }
+
+    .about_infoSmallRight
+    {
+        display: none;
+
+    }
+
+    .about_infoSmallDown
+    {
+        display: none;
+
+    }
+
+/* end ABOUT */
 }
 /* end 1024 */
 
