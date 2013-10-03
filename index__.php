@@ -1,6 +1,8 @@
-<?php get_header(); ?>
-	
- <div id="slideshow" >
+<?php
+include('header.php');
+?>
+
+     <div id="slideshow" >
         <div id="slideshow_left" class="prev">
         </div>
 
@@ -11,7 +13,8 @@
             <li><div id="carruselImg2"></div></li>
             <li><div id="carruselImg3"></div></li>
             <li><div id="carruselImg4"></div></li>
-        
+            <li><div id="carruselImg1"></div></li>
+            <li><div id="carruselImg2"></div></li>
 
            
           </ul>
@@ -63,5 +66,12 @@
               </p>
         </div>
       </div>
-      
-<?php get_footer(); ?>
+
+
+  
+       
+
+
+<?php 
+include('footer.php');
+?>

@@ -13,10 +13,7 @@ $(window).load(function (){
 
 
 	
-    	$(".sliderClass").jCarouselLite({
-        	btnNext: ".next",
-        	btnPrev: ".prev",
-		});
+	
 		
 	
 
