@@ -13,7 +13,10 @@ $(window).load(function (){
 
 
 
-	$('#slideshowImgStyle').carouFredSel();
+	$('#slideshowImgStyle').carouFredSel({
+		prev: '.prev',
+		next: '.next',	
+	});
 	
 
 
