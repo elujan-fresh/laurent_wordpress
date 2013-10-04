@@ -263,6 +263,8 @@
         float: left;
         margin-top: 12px;
         height: 512px;
+        overflow: hidden;
+
 
 
     }
@@ -287,15 +289,36 @@
 
     }
 
+    #slideshowImgStyle{
+        width: 1426px;
+        height: 512px;
+        margin: 40px auto;
+    }
 
-    #slideshow li
+    ul#slideshowImgStyle,
+    ul#slideshowImgStyle li {
+        /* Setting a common base */
+        margin: 0;
+        padding: 0;
+        margin-left: 20px;
+    }
+
+    ul#slideshowImgStyle li {
+        display: inline-block;
+        width: 312px !important;
+        min-height: 441px !important;
+        height: 441px !important;
+    }
+
+
+    /*#slideshow li
     {
         display: inline;
         list-style: none;
         margin-left: 30px;
         width: 312px !important;
         height: 441px !important;
-    }
+    }*/
 
     #slideshow_left>img{
         width: 40px;

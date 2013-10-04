@@ -260,10 +260,13 @@
         width: 650px !important;
         float: left;
         margin-top: 12px;
-        height: 318px;
-        margin-left: 9px;
+        height: 311px;
+        margin-left: -6px;
+        overflow: hidden;
+
 
     }
+
 
     /*#slideimage img
     {
@@ -283,15 +286,36 @@
 
     }
 
+    #slideshowImgStyle{
+        width: 689px;
+        height: 318px;
+        margin: 9px auto;
+    }
 
-    #slideshow li
+    ul#slideshowImgStyle,
+    ul#slideshowImgStyle li {
+        /* Setting a common base */
+        margin: 0;
+        padding: 0;
+        margin-left: 20px;
+    }
+
+    ul#slideshowImgStyle li {
+        display: inline-block;
+        width: 197px !important;
+        min-height: 306px !important;
+        height: 306px !important;
+    }
+
+
+    /*#slideshow li
     {
         display: inline;
         list-style: none;
         margin-left: 2px;
         width: 218px !important;
         height: 306px !important;
-    }
+    }*/
 
     #slideshow_left>img{
         width: 40px;

@@ -251,7 +251,7 @@
         width: 34px;
         height: 33px;
         background-image: url('../img/480/home/arrowl.png');
-        margin-left: -386px;
+        margin-left: -431px;
         float: left;
 
     }
@@ -265,6 +265,8 @@
         margin-top: 2px;
         height: 147px !important;
         margin-left: 39px;
+        overflow: hidden;
+
 
     }
 
@@ -287,14 +289,35 @@
     }
 
 
-    #slideshow li
+    #slideshowImgStyle{
+        width: 480px;
+        height: 155px;
+        margin: 20px auto;
+    }
+
+    ul#slideshowImgStyle,
+    ul#slideshowImgStyle li {
+        /* Setting a common base */
+        margin: 0;
+        padding: 0;
+        margin-left: 2px;
+    }
+
+    ul#slideshowImgStyle li {
+        display: inline-block;
+        width: 110px !important;
+        min-height: 154px !important;
+        height: 154px !important;
+    }
+
+    /*#slideshow li
     {
         display: inline;
         list-style: none;
         margin-left: 2px;
         width: 110px !important;
         height: 154px !important;
-    }
+    }*/
 
     #slideshow_left>img{
         width: 40px;
