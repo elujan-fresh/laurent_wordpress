@@ -276,7 +276,7 @@
     }
 
 
-    #slideshow
+#slideshow
     {
         width: 913px;
         height: 327px;
@@ -304,6 +304,8 @@
         margin-top: 12px;
         height: 300px;
         margin-left: 34px;
+        overflow: hidden;
+
 
     }
 
@@ -326,15 +328,37 @@
 
     }
 
+    #slideshowImgStyle{
+        width: 730px;
+        height: 327px;
+        margin: 27px auto;
+    }
 
-    #slideshow li
+    ul#slideshowImgStyle,
+    ul#slideshowImgStyle li {
+        /* Setting a common base */
+        margin: 0;
+        padding: 0;
+        margin-left: 20px;
+    }
+
+    ul#slideshowImgStyle li {
+        display: inline-block;
+        width: 212px !important;
+        min-height: 302px !important;
+        background: #ccc;
+        height: 302px !important;
+    }
+
+
+    /*#slideshow li
     {
         display: inline;
         list-style: none;
         margin-left: 30px;
         width: 212px !important;
         height: 302px !important;
-    }
+    }*/
 
     #slideshow_left>img{
         width: 40px;
@@ -345,6 +369,7 @@
         width: 40px;
         height: 40px;
     }
+
 
 /*carrusel*/
 #carruselImg1
