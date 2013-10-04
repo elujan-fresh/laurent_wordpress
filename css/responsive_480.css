@@ -1152,16 +1152,18 @@
 
      #aboutAwards
     {
-        margin-top: 14px; margin-left: 20px;
+        margin-top: -2px; 
+        margin-left: 43px;
         float: left;
-        width: 290px;
+        width: 413px;
     }
 
    .about_infoAwards
     {
         color: black;
         font-size: 11pt;
-        width: 270px;
+        width: 413px;
+        line-height: 0.9;
     }
 
 .about_titleAwards
@@ -1179,28 +1181,32 @@
         margin-left: 46px;
         float: left;
         width: 290px;
+        line-height:1.2;
+
     }
 
     .about_infoSmallRight
     {
         color: black;
         font-size: 11pt;
-        width: 270px;
+        width: 285px;
+        margin-left: 126px;
     }
 
     .about_infoSmallDown
     {
         color: black;
         font-size: 11pt;
-        width: 270px;
+        width: 413px;
+        line-height:1.2;
     }
 
     #about_imgSmall{
         float: left;
         width: 115px;
         height: 155px;
-        margin-top: 18px;
-        margin-left: 49px;
+        margin-top: 2px;
+        margin-left: 0px;
         background-image: url('../img/480/about/image1.png');
     }
 /* end ABOUT */

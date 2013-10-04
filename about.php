@@ -52,9 +52,9 @@ include('header.php');
 
             <p>In 2011, Laurent Bouzereau directed the feature-length documentary ROMAN POLANSKI: A FILM MEMOIR, which premiered at the 2011 Zurich Film Festival and was selected at the 2012 Cannes Film Festival (Out Of Competition.)</p>
 
-            <p>He is currently the director, writer and producer of the acclaimed television series A NIGHT AT THE MOVIES,</p>
-
-            <p>...</p>
+            <p>He is currently the director, writer and producer of the acclaimed television series A NIGHT AT THE MOVIES,
+            <br>...
+            </p>
 
             <p>Bouzereau currently resides in West Hollywood, CA. </p>
 
