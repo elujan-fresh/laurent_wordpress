@@ -881,91 +881,222 @@
     /* End Misc */
 
 
-    /* Behind */
-
-    #behind 
+   /*inicio behind*/
+#behindTheScenes
     {
-        background: url('../img/480/behind/background.png');
-        background-repeat: no-repeat;
-        width: 915px;
-        height: 541px; 
-        margin: 0 auto;
-        margin-top: 30px;
-    }
-
-    #behind hr
-    {
-        border-top: 1px solid #3e3e3e;
-        width: 80%;
-        padding-left: 30px;
-        padding-right: 40px;
+        width: auto;
+        height: auto;
+        background: #979797;        
+        background-image: url('../img/480/post/background.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin: content-box;
+        background-size:100% 100%;
+        min-height: 720px;
 
     }
 
-
-    .behindthescenes 
-    {
-         font-family: brixslab-regular;
-         padding-top: 30px;
-    }
-
-
-    .behindthescenes_title 
-    {
-        font-size: 21pt;
-        color: white;
-        text-align: center;
-        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
-
-    }
-
-    .behindthescenes_text
-    {
-        text-align: justify;
-        font-weight: bold;
-        font-size: 10pt;
-        padding-left: 150px;
-        padding-right: 150px;
-
-
-
-    }
-
-    .behind_text
+    #behindTheScenes_content
     {
         width: 100%;
-        text-align: left;
-        font-weight: bold;
+        height: 100%;
+        padding-left: 42px; 
+        padding-right: 42px;
+        padding-top: 31px;
         font-family: brixslab-regular;
     }
 
-    .behind_text_left
+    #behindTheScenes_content hr
     {
-        float: left;
-        width: 50%;
-        padding-left: 200px;
+       margin-left: -70px;
+       width:120%;
+       border: 0.5px solid rgba(0,0,0,0.25);
+       
+    }
+
+    .behindTheScenes_title
+    {
+       
+     
+        text-align: center;
+        word-spacing: .2em;
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 19pt;
+        font-family: brixslab-light;
+        padding: 6px;
+        
+
+    }
+
+    .behindTheScenes_quote
+    {
+        font-size: 13pt;
+        color: white;
+        font-weight: lighter;
+        padding:11px;
+        text-align: center;        
+
+        
         
     }
-
-
-    .behind_text_right
+    
+    .behindTheScenes_text_small
     {
-        width: 50;
-        padding-left: 100px;
+         font-size: 10pt;
+         color: white;
+         font-weight: lighter;
+        
+    }
+    
+    #behindTheScenes_line
+    {
+        width: 463px !important;
+        height: 1px !important;
+        margin: -10px 1px 0px -14px;
+        background-image: url('../img/768/post/line.png');
+        background-size:100% 100%;
+    }
+    
+
+
+    .behindTheScenes_text
+    {
+        font-size: 11pt;
+        text-align: justify;
+        color: black;
+    }
+    .behindTheScenes_text_480
+    {
+        font-size: 11pt;
+        text-align: center;
+        color: black;
+        
+        
+
+    }
+    #behindTheScenes_leftList{
+      display: none;
+
+    }
+    #behindTheScenes_rightList{
+       display: none;
+
+        
+    }
+    #behindTheScenes_leftList_480{
+ 
+    }
+
+      #behindTheScenes_slideshow
+    {
+        width: 480px;
+        height: 155px;
+        background-color:#202020;
+        margin: 20px auto;
+    }
+
+    #behindTheScenes_slideshow_left
+    {
+        float: left;
+        margin-top: 55px;
+        width: 34px;
+        height: 33px;
+        background-image: url('../img/480/home/arrowl.png');
+        margin-left: -1px;
+    }
+
+    #behindTheScenes_slideimage 
+    {
+        margin: 0 auto;
+        width: 333px !important;
+        float: left;
+        margin-top: 2px;
+        height: 147px !important;
+        margin-left: 39px;
+        overflow: hidden;
+
+
+    }
+
+    /*#slideimage img
+    {
+        height: 300px;
+        
+    }*/
+
+
+    #behindTheScenes_slideshow_right
+    {
+        margin-top: -95px;
+        width: 34px;
+        height: 33px;
+        background-image: url('../img/480/home/arrowr.png');
+        margin-left: 449px;
         float: left;
 
     }
 
-    .behind_year
-    {
-        text-align: center; 
-        color:white;
-        font-family: brixslab-regular;
-        font-size: 16pt;
-
+    #behindTheScenes_slideshowImgStyle{
+        width: 480px;
+        height: 155px;
+        margin: 20px auto;
     }
 
-    /* End Behind */
+    ul#behindTheScenes_slideshowImgStyle,
+    ul#behindTheScenes_slideshowImgStyle li {
+        /* Setting a common base */
+        margin: 0;
+        padding: 0;
+        margin-left: 2px;
+        width: 700px;
+        height: 154px;
+    }
+
+    ul#behindTheScenes_slideshowImgStyle li {
+        display: inline-block;
+        width: 375px !important;
+        min-height: 154px !important;
+        height: 154px !important;
+    }
+
+    /*#slideshow li
+    {
+        display: inline;
+        list-style: none;
+        margin-left: 2px;
+        width: 110px !important;
+        height: 154px !important;
+    }*/
+
+    #behindTheScenes_slideshow_left>img{
+        width: 40px;
+        height: 40px;
+    }
+
+    #behindTheScenes_slideshow_right>img{
+        width: 40px;
+        height: 40px;
+    }
+
+/*carrusel*/
+#behindTheScenes_carruselImg1
+{
+    width: 375px !important;
+    height: 154px !important;
+    background-image: url('../img/480/behind/image1.png');
+
+}
+
+#behindTheScenes_carruselImg2
+{
+    width: 375px !important;
+    height: 154px !important;
+    background-image: url('../img/480/behind/image2.png');
+
+}
+
+/*fin behind*/
 
 
 
@@ -1696,7 +1827,7 @@
     
     #behindTheScenes_line
     {
-        width: 412px !important;
+        width: auto;
         height: 1px !important;
         margin: -10px 1px 0px -14px;
         background-image: url('../img/768/post/line.png');

@@ -1879,7 +1879,9 @@
 
 }
 
-
+#behindTheScenes_leftList_480{
+    display: none;
+}
     /*End behind at the movies */
 
 /*inicia books*/

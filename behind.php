@@ -51,6 +51,28 @@ For more than 20 years, Laurent has directed, written and produced documentaries
           </p> 
           </div>
         </div>
+
+                <div id="behindTheScenes_leftList_480">
+          <p class="behindTheScenes_text_480">
+            Jurassic Park 3D
+            World War Z
+            12 Years A Slave
+            The Exorcist (40th Anniversary)
+            Delivery Man
+            Hansel & Gretel: Witch Hunters
+            Under The Dome (TV Series)
+            The Bible (TV Mini-Series)     
+      Steven Spielberg
+      Marc Forster
+      Steve McQueen
+      William Friedkin
+      Ken Scott
+      Tommy Wirkola
+      Stephen King 
+      Mark Burnett  
+          </p> 
+          </div>
+        </div>
         
       </div>
 

@@ -1725,7 +1725,6 @@
         color: white;
         font-weight: lighter;
         padding:11px;
-        width: 610px;
         text-align: center;        
         font-family: brixslab-light;
         height: 48px;
@@ -1763,15 +1762,15 @@
 
     }
     #behindTheScenes_leftList{
-        width: 250px;
+        width: 150px;
         float: left;
         margin-left: 60px;
 
     }
     #behindTheScenes_rightList{
-        width: 250px;
+        width: 150px;
         float: left;
-        margin-left: 84px;
+        margin-left: 162px;
 
         
     }
@@ -1835,11 +1834,13 @@
         margin: 0;
         padding: 0;
         margin-left: 20px;
+        width: 2426px;
+        height: 306px;
     }
 
     ul#behindTheScenes_slideshowImgStyle li {
         display: inline-block;
-        width: 197px !important;
+        width: 673px !important;
         min-height: 306px !important;
         height: 306px !important;
     }
@@ -1860,20 +1861,25 @@
 /*carrusel*/
 #behindTheScenes_carruselImg1
 {
-    width: 218px !important;
+    width: 673px !important;
     height: 306px !important;
     background-image: url('../img/768/behind/image1.png');
+    background-repeat: no-repeat;
 
 }
 
 #behindTheScenes_carruselImg2
 {
-    width: 218px !important;
+    width: 673px !important;
     height: 306px !important;
     background-image: url('../img/768/behind/image2.png');
+    background-repeat: no-repeat;
 
 }
 
+#behindTheScenes_leftList_480{
+    display: none;
+}
 /*Fin behind*/
    /* Books */
     #books
