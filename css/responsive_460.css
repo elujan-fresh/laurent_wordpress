@@ -1024,8 +1024,8 @@
     /* Feature */
     #feature
     {
-        width: 913px;
-        height: 635px;
+        width: 463px;
+        height: 683px;
         
         margin: 0 auto;
         margin-bottom: 39px;
@@ -1034,7 +1034,25 @@
     .feature_images
     {
         float: left;
+        margin: 0px 0px 0px 41px;
 
+    }
+    
+    #feature_image1
+    {
+    width: 176px !important;
+    height: 256px !important;
+    background-image: url('../img/480/feature/image1.png');
+
+    }
+        
+
+    #feature_image2
+    {
+    width: 200px !important;
+    height: 256px !important;
+    background-image: url('../img/480/feature/image2.png');
+    margin: 0px 0px 0px 13px;   
     }
 
     .featured_list
@@ -1055,39 +1073,44 @@
     .feature_images_title
     {
 
-        background: url('../img/480/featured/featured.png') ;  
+        background: url('../img/480/feature/title.png') ;  
         background-repeat: no-repeat;
         text-align: center;
         font-family: registersans;
         font-weight: bold;
-        font-size: 14pt;
+        font-size: 12pt;
         text-transform: uppercase;
-        width: 329px;
-        height: 36px;
+        width: 291px;
+        height: 31px;
         padding-top: 4px;
         color: white; 
-        margin: 0 auto;
+        margin: 0px 0px 0px 60px;
         margin-bottom: 20px;
     }
 
     .featured_press
     {
-        background: url('../img/480/featured/featured_background.png') #f0f0f0 ;
+        background: url('../img/480/feature/background.png') #f0f0f0 ;
         background-repeat: no-repeat;
         float: right;
-        width: 335px;
-        height: 615px;
-        font-family: brixslab-regular;
+        width: 480px;
+        height: 783px;
+        font-family: brixslab-light;
         color: #f0f0f0;
-        padding-top: 39px; 
+        padding-top: 23px; 
         padding-left: 39px; 
         padding-right: 23px;
+        font-size: 14pt;
+        line-height: 1.2;
     }
+
 
     .featured_press_title
     {
         text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
-        font-size: 22pt;
+        font-size: 25pt;
+        width: 480px;
+        height: 444px;
 
     }
 
@@ -1097,17 +1120,20 @@
         font-size: 12pt;
         font-weight: bold;
     }
-
+    #featured_press_text
+    {
+        width: 480px;
+        height: 783px;   
+    }
 
     /*End Feature */
-
 
     /* Footer */
 
     #footer
     {
-       position: relative; 
-       margin-top: 140px; 
+        bottom: 0;
+       margin-top: 0px; 
        clear: both;
        background: #F0F0F0;
        height: 37px;
@@ -1341,7 +1367,29 @@
 
     }
 
+#documentaries_paginator a
+    {   
+        color: #666666;
+        font-size: 8pt;
+        text-decoration: none;
+        font-weight: bold;
+        font-family: registersans;
 
+
+    }
+
+    #documentaries_paginator a:hover
+    {
+        font-family: registersans;
+        display: block;
+        width: 15px;
+        height: 15px;
+        background: #3e3e3e;
+        font-size: 8pt;
+        color: white;
+        text-align: center;
+
+    }
 
 
     .paginator
@@ -1398,6 +1446,378 @@
     
 
     /*End Pag Documentaries */
+/*Inicio Pag night at the movies */
+
+
+    #nightAthTheMovies
+    {
+        width: auto;
+        height: auto;
+        background: #979797;        
+        background-image: url('../img/480/post/background.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin: content-box;
+        background-size:100% 100%;
+
+    }
+
+    #nightAthTheMovies_content
+    {
+        width: 100%;
+        height: 100%;
+        padding-left: 42px; 
+        padding-right: 42px;
+        padding-top: 31px;
+        font-family: brixslab-regular;
+    }
+
+    #nightAthTheMovies_content hr
+    {
+       margin-left: -70px;
+       width:120%;
+       border: 0.5px solid rgba(0,0,0,0.25);
+       
+    }
+
+    .nightAthTheMovies_title
+    {
+       
+     
+        text-align: center;
+        word-spacing: .2em;
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 19pt;
+        font-family: brixslab-light;
+        padding: 6px;
+        
+
+    }
+
+    .nightAthTheMovies_quote
+    {
+        font-size: 13pt;
+        color: white;
+        font-weight: lighter;
+        padding:11px;
+        
+        
+    }
+    
+    .nightAthTheMovies_text_small
+    {
+         font-size: 10pt;
+         color: white;
+         font-weight: lighter;
+        
+    }
+    
+    #nightAthTheMovies_line
+    {
+        width: 412px !important;
+        height: 1px !important;
+        margin: -10px 1px 0px -14px;
+        background-image: url('../img/768/post/line.png');
+        background-size:100% 100%;
+    }
+    
+
+
+    .nightAthTheMovies_text
+    {
+        font-size: 11pt;
+        text-align: justify;
+        color: black;
+        
+        
+
+    }
+
+
+    #nightAthTheMovies_paginator > ul
+    {   
+        
+        text-align: center;
+    }   
+
+    #nightAthTheMovies_paginator > ul > li
+    {
+
+        display: inline-block;
+        list-style-type:none;
+
+    }
+
+#nightAthTheMovies_paginator a
+    {   
+        color: #666666;
+        font-size: 8pt;
+        text-decoration: none;
+        font-weight: bold;
+        font-family: registersans;
+
+
+    }
+
+    #nightAthTheMovies_paginator a:hover
+    {
+        font-family: registersans;
+        display: block;
+        width: 15px;
+        height: 15px;
+        background: #3e3e3e;
+        font-size: 8pt;
+        color: white;
+        text-align: center;
+
+    }
+
+
+    .nightAthTheMovies_paginator
+    {
+        font-family: registersans;
+        font-size: 8pt;
+        font-weight: bold;
+        display: block;
+        color: #4A4A4A;
+        
+        
+    
+
+    }
+    
+    .nightAthTheMovies_paginator_active
+    {   
+        font-family: registersans;
+        font-size: 8pt;
+        font-weight: bold;
+        display: block;
+        color: white;
+        width: 15px;
+        height: 14px;
+        background-image: url('../img/768/post/selection.png');
+    }
+
+
+    .nightAthTheMovies_paginator:hover
+    {
+        font-family: registersans;
+        font-weight: bold;
+        display: block;
+        width: 15px;
+        height: 14px;
+        background: #3e3e3e;
+        font-family: registersans;
+        font-size: 8pt;
+        color: white;
+        text-align: center;
+
+    }
+    
+    #nightAthTheMovies_paginator > div:hover
+    {
+        display: inline;
+        list-style: none;
+        width: 15px;
+        height: 14px;
+        background: black;
+        color: white;
+    }
+     .nightAthTheMovies_list
+    {
+        display: none;
+    }
+/*Fin  night at the movies */
+/*inicio behind*/
+#behindTheScenes
+    {
+        width: auto;
+        height: auto;
+        background: #979797;        
+        background-image: url('../img/480/post/background.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin: content-box;
+        background-size:100% 100%;
+
+    }
+
+    #behindTheScenes_content
+    {
+        width: 100%;
+        height: 100%;
+        padding-left: 42px; 
+        padding-right: 42px;
+        padding-top: 31px;
+        font-family: brixslab-regular;
+    }
+
+    #behindTheScenes_content hr
+    {
+       margin-left: -70px;
+       width:120%;
+       border: 0.5px solid rgba(0,0,0,0.25);
+       
+    }
+
+    .behindTheScenes_title
+    {
+       
+     
+        text-align: center;
+        word-spacing: .2em;
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 19pt;
+        font-family: brixslab-light;
+        padding: 6px;
+        
+
+    }
+
+    .behindTheScenes_quote
+    {
+        font-size: 13pt;
+        color: white;
+        font-weight: lighter;
+        padding:11px;
+        text-align: center;        
+
+        
+        
+    }
+    
+    .behindTheScenes_text_small
+    {
+         font-size: 10pt;
+         color: white;
+         font-weight: lighter;
+        
+    }
+    
+    #behindTheScenes_line
+    {
+        width: 412px !important;
+        height: 1px !important;
+        margin: -10px 1px 0px -14px;
+        background-image: url('../img/768/post/line.png');
+        background-size:100% 100%;
+    }
+    
+
+
+    .behindTheScenes_text
+    {
+        font-size: 11pt;
+        text-align: justify;
+        color: black;
+        
+        
+
+    }
+    #behindTheScenes_leftList{
+
+    }
+    #behindTheScenes_rightList{
+        
+    }
+/*fin behind*/
+
+       /* Books */
+
+    .books_768_container
+    {
+        display: none;
+    }
+
+    .books_1024_container
+    {
+        display: none;
+    }
+
+    .books_1600_container
+    {
+        display: none;
+    }
+
+    #books
+    {
+       background: #979797;
+       width: 100%;
+       height: auto;
+       margin-top: 0px; 
+       margin-bottom: -177px;
+
+    }
+
+    .books_480
+    {
+        margin-top: 0px;
+        width: 100%;
+    }
+
+    .books_480_container>ul
+    {
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .books_480_container>ul>li
+    {
+        display: inline-block;
+        list-style: none;
+    }    
+
+    .title_books > span
+    {
+        background: url("../img/480/books/title.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+        color: #FFFFFF;
+        display: block;
+        font-size: 15pt;
+        font-family: registersans;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        text-align: center; 
+    }
+
+    .movie {
+        position: relative;
+        display: inline-block;
+    }
+
+    .span_hover {
+        background-color: rgba(0, 0, 0, 0.6);
+        bottom: 7px;
+        color: #FFFFFF;
+        display: none;
+        font-family: brixslab-light;
+        font-size: 12pt;
+        height: 99%;
+        left: 2px;
+        position: absolute;
+        right: -9px;
+        top: 1px;
+        width: 97%;
+        text-align: center;
+        padding-top: 13px;
+    }
+
+    .movie:hover img {
+        opacity:0.8;
+        
+    }
+
+    .movie:hover .span_hover {
+        display: block;
+        font-family: brixslab-light;
+    }
+
+
+
+
+
+/* End books */
 }
 
 /* end 480 v2*/

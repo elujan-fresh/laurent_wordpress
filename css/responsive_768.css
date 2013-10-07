@@ -1016,10 +1016,10 @@
 
     
 
-    /* Feature */
+   /* Feature */
     #feature
     {
-        width: 913px;
+        width: 727px;
         height: 635px;
         
         margin: 0 auto;
@@ -1029,7 +1029,25 @@
     .feature_images
     {
         float: left;
+        margin: 0px 0px 0px 57px;
 
+    }
+    
+    #feature_image1
+    {
+    width: 170px !important;
+    height: 246px !important;
+    background-image: url('../img/768/press/image2.png');
+
+    }
+        
+
+    #feature_image2
+    {
+    width: 192px !important;
+    height: 246px !important;
+    background-image: url('../img/768/press/image1.png');
+    margin: 0px 0px 0px 13px;   
     }
 
     .featured_list
@@ -1050,46 +1068,50 @@
     .feature_images_title
     {
 
-        background: url('../img/768/featured/featured.png') ;  
+        background: url('../img/768/press/title.png') ;  
         background-repeat: no-repeat;
         text-align: center;
         font-family: registersans;
         font-weight: bold;
-        font-size: 14pt;
+        font-size: 12pt;
         text-transform: uppercase;
-        width: 329px;
-        height: 36px;
+        width: 291px;
+        height: 31px;
         padding-top: 4px;
         color: white; 
         margin: 0 auto;
         margin-bottom: 20px;
     }
-
+    #feature_content{
+        width: 186px;
+    }
     .featured_press
     {
-        background: url('../img/768/featured/featured_background.png') #f0f0f0 ;
+        background: url('../img/768/press/background.png') #f0f0f0 ;
         background-repeat: no-repeat;
         float: right;
-        width: 335px;
-        height: 615px;
-        font-family: brixslab-regular;
+        width: 252px;
+        height: 462px;
+        font-family: brixslab-light;
         color: #f0f0f0;
-        padding-top: 39px; 
-        padding-left: 39px; 
+        padding-top: 32px; 
+        padding-left: 30px; 
         padding-right: 23px;
+        font-size: 13px;
+        line-height: 18px;
     }
 
     .featured_press_title
     {
         text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
-        font-size: 22pt;
+        font-size: 20pt;
 
     }
 
     .featured_press_highlight
     {
         color: #520152;
-        font-size: 12pt;
+        font-size: 11pt;
         font-weight: bold;
     }
 
@@ -1097,11 +1119,12 @@
     /*End Feature */
 
 
+
     /* Footer */
 
     #footer
     {
-       position: relative; 
+        bottom: 0;
        margin-top: 100px; 
        clear: both;
        background: #F0F0F0;
@@ -1323,7 +1346,29 @@
     }
 
 
+ #documentaries_paginator a
+    {   
+        color: #666666;
+        font-size: 8pt;
+        text-decoration: none;
+        font-weight: bold;
+        font-family: registersans;
 
+
+    }
+
+    #documentaries_paginator a:hover
+    {
+        font-family: registersans;
+        display: block;
+        width: 15px;
+        height: 15px;
+        background: #3e3e3e;
+        font-size: 8pt;
+        color: white;
+        text-align: center;
+
+    }
 
     .paginator
     {
@@ -1382,6 +1427,547 @@
     }   
 
     /*End Pag Documentaries */
+
+/*Inicio Pag night at the movies */
+
+    #nightAthTheMovies
+    {
+        width: 688px;
+        height: 526px;
+        background: #979797;        
+        margin: 26px auto 0 auto;
+
+        background-image: url('../img/768/night/background.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin: content-box;
+        background-size:100% 100%;
+
+    }
+
+    #nightAthTheMovies_content
+    {
+        width: 100%;
+        height: 100%;
+        padding-left: 81px; 
+        padding-right: 81px;
+        padding-top: 13px;
+        font-family: brixslab-regular;
+    }
+
+    #nightAthTheMovies_content hr
+    {
+       margin-left: -70px;
+       width:120%;
+       border: 0.5px solid rgba(0,0,0,0.25);
+       
+    }
+
+    .nightAthTheMovies_title
+    {
+       
+     
+        text-align: center;
+        word-spacing: .2em;
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 16pt;
+        font-family: brixslab-light;
+        
+
+    }
+
+        #authorQuote{
+        font-size: 10pt;
+    }
+
+
+    .nightAthTheMovies_quote
+    {
+        font-size: 12pt;
+        color: white;
+        font-weight: lighter;
+        padding:11px;
+        width: 610px;
+        margin-left: -40px;
+        font-family: brixslab-light;
+        height: 48px;
+
+        
+        
+    }
+    
+    .nightAthTheMovies_text_small
+    {
+         font-size: 10pt;
+         color: white;
+         font-weight: lighter;
+        
+    }
+    
+    #nightAthTheMovies_line
+    {
+        width: 596px !important;
+        height: 1px !important;
+        background-image: url('../img/768/night/line.png');
+        margin-top: 16px;
+        margin-left: -32px;
+    }
+    
+
+
+    .nightAthTheMovies_text
+    {
+        font-size: 10pt;
+        text-align: justify;
+        color: black;
+        width: 525px;
+
+
+    }
+
+
+    #nightAthTheMovies_paginator > ul
+    {   
+        
+        text-align: center;
+    }   
+
+    #nightAthTheMovies_paginator > ul > li
+    {
+
+        display: inline-block;
+        list-style-type:none;
+
+    }
+
+ #nightAthTheMovies_paginator a
+    {   
+        color: #666666;
+        font-size: 8pt;
+        text-decoration: none;
+        font-weight: bold;
+        font-family: registersans;
+
+
+    }
+
+    #nightAthTheMovies_paginator a:hover
+    {
+        font-family: registersans;
+        display: block;
+        width: 15px;
+        height: 15px;
+        background: #3e3e3e;
+        font-size: 8pt;
+        color: white;
+        text-align: center;
+
+    }
+
+
+
+    .nightAthTheMovies_paginator
+    {
+        font-family: registersans;
+        font-size: 8pt;
+        font-weight: bold;
+        display: block;
+        color: #4A4A4A;
+        
+        
+    
+
+    }
+    
+    .nightAthTheMovies_paginator_active
+    {   
+        font-family: registersans;
+        font-size: 8pt;
+        font-weight: bold;
+        display: block;
+        color: white;
+        width: 15px;
+        height: 15px;
+        background: #3e3e3e;
+    }
+
+
+    .nightAthTheMovies_paginator:hover
+    {
+        font-family: registersans;
+        font-weight: bold;
+        display: block;
+        width: 15px;
+        height: 15px;
+        background: #3e3e3e;
+        font-family: registersans;
+        font-size: 8pt;
+        color: white;
+        text-align: center;
+
+    }
+    
+    #nightAthTheMovies_paginator > div:hover
+    {
+        display: inline;
+        list-style: none;
+        width: 15px;
+        height: 15px;
+        background: black;
+        color: white;
+    }
+
+    .nightAthTheMovies_hr
+    {
+        background-image: url('../img/768/night/line.png');  
+    }   
+
+      #nightAthTheMovies_image1
+    {
+    width: 171px !important;
+    height: 218px !important;
+    background-image: url('../img/768/night/image2.png');
+
+    }
+        
+
+    #nightAthTheMovies_image2
+    {
+    width: 171px !important;
+    height: 218px !important;
+    background-image: url('../img/768/night/image1.png');
+    margin: 0px 0px 0px 13px;   
+    }
+
+ #nightAthTheMovies_image3
+    {
+    width: 171px !important;
+    height: 218px !important;
+    background-image: url('../img/768/night/image3.png');
+    margin: 0px 0px 0px 13px;   
+    }
+
+    .nightAthTheMovies_list
+    {
+        float: left;
+        margin-top: 25px;
+        margin-left: 71px;
+    }
+
+    .nightAthTheMovies_list > ul
+     {
+        padding-left: 0px;
+     }
+
+    .nightAthTheMovies_list>ul> li
+    {
+        display: inline-block;
+    }
+
+/*Fin  night at the movies */
+/*Inicio behind*/
+ #behindTheScenes
+    {
+        width: 688px;
+        height: 526px;
+        background: #979797;        
+        margin: 26px auto 0 auto;
+
+        background-image: url('../img/768/night/background.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin: content-box;
+        background-size:100% 100%;
+
+    }
+
+    #behindTheScenes_content
+    {
+        width: 100%;
+        height: 100%;
+        padding-left: 81px; 
+        padding-right: 81px;
+        padding-top: 13px;
+        font-family: brixslab-regular;
+    }
+
+    #behindTheScenes_content hr
+    {
+       margin-left: -70px;
+       width:120%;
+       border: 0.5px solid rgba(0,0,0,0.25);
+       
+    }
+
+    .behindTheScenes_title
+    {
+       
+     
+        text-align: center;
+        word-spacing: .2em;
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 16pt;
+        font-family: brixslab-light;
+        
+
+    }
+
+        #behindTheScenes_authorQuote{
+        font-size: 10pt;
+    }
+
+
+    .behindTheScenes_quote
+    {
+        font-size: 12pt;
+        color: white;
+        font-weight: lighter;
+        padding:11px;
+        width: 610px;
+        text-align: center;        
+        font-family: brixslab-light;
+        height: 48px;
+
+        
+        
+    }
+    
+    .behindTheScenes_text_small
+    {
+         font-size: 10pt;
+         color: white;
+         font-weight: lighter;
+        
+    }
+    
+    #behindTheScenes_line
+    {
+        width: 596px !important;
+        height: 1px !important;
+        background-image: url('../img/768/night/line.png');
+        margin-top: 16px;
+        margin-left: -32px;
+    }
+    
+
+
+    .behindTheScenes_text
+    {
+        font-size: 10pt;
+        text-align: justify;
+        color: black;
+        width: 525px;
+
+
+    }
+    #behindTheScenes_leftList{
+        width: 250px;
+        float: left;
+        margin-left: 60px;
+
+    }
+    #behindTheScenes_rightList{
+        width: 250px;
+        float: left;
+        margin-left: 84px;
+
+        
+    }
+
+ #behindTheScenes_slideshow
+    {
+        width: 689px;
+        height: 318px;
+        background-color:#202020;
+        margin: 20px auto;
+    }
+
+    #behindTheScenes_slideshow_left
+    {
+        float: left;
+        margin-top: 140px;
+        width: 34px;
+        height: 33px;
+        background-image: url('../img/768/home/arrowl.png');
+        margin-left: -27px;
+
+
+    }
+
+    #behindTheScenes_slideimage 
+    {
+        margin: 0 auto;
+        width: 650px !important;
+        float: left;
+        margin-top: 12px;
+        height: 311px;
+        margin-left: -6px;
+        overflow: hidden;
+
+
+    }
+
+
+
+
+    #behindTheScenes_slideshow_right
+    {
+        margin-top: -193px;
+        width: 34px;
+        height: 33px;
+        background-image: url('../img/768/home/arrowr.png');
+        margin-left: 680px;
+        float: left;
+
+    }
+
+    #behindTheScenes_slideshowImgStyle{
+        width: 689px;
+        height: 318px;
+        margin: 9px auto;
+    }
+
+    ul#behindTheScenes_slideshowImgStyle,
+    ul#behindTheScenes_slideshowImgStyle li {
+        /* Setting a common base */
+        margin: 0;
+        padding: 0;
+        margin-left: 20px;
+    }
+
+    ul#behindTheScenes_slideshowImgStyle li {
+        display: inline-block;
+        width: 197px !important;
+        min-height: 306px !important;
+        height: 306px !important;
+    }
+
+
+  
+
+    #behindTheScenes_slideshow_left>img{
+        width: 40px;
+        height: 40px;
+    }
+
+    #behindTheScenes_slideshow_right>img{
+        width: 40px;
+        height: 40px;
+    }
+
+/*carrusel*/
+#behindTheScenes_carruselImg1
+{
+    width: 218px !important;
+    height: 306px !important;
+    background-image: url('../img/768/behind/image1.png');
+
+}
+
+#behindTheScenes_carruselImg2
+{
+    width: 218px !important;
+    height: 306px !important;
+    background-image: url('../img/768/behind/image2.png');
+
+}
+
+/*Fin behind*/
+   /* Books */
+    #books
+    {
+       background: #979797;
+       width: 100%;
+       height: auto;
+       margin-top: 0px; 
+       margin-bottom: -177px;
+
+    }
+    
+    .books_480_container
+    {
+        display: none;
+    }
+
+    .books_1024_container
+    {
+        display: none;
+    }
+
+    .books_1600_container
+    {
+        display: none;
+    }
+
+    .books_768_container
+    {
+        margin-top: 0px;
+        width: 100%;
+    }
+
+    .books_768_container>ul
+    {
+        padding-left: 0px;
+        text-align: center;
+    }
+
+    .books_768_container>ul>li
+    {
+        display: inline-block;
+        list-style: none;
+    }    
+
+    .title_books > span
+    {
+        background: url("../img/768/books/title.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+        color: #FFFFFF;
+        display: block;
+        font-size: 15pt;
+        font-family: registersans;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        text-align: center; 
+    }
+
+    .movie {
+        position: relative;
+        display: inline-block;
+    }
+
+    .span_hover {
+        background-color: rgba(0, 0, 0, 0.6);
+        bottom: 7px;
+        color: #FFFFFF;
+        display: none;
+        font-family: brixslab-light;
+        font-size: 12pt;
+        height: 99%;
+        left: 2px;
+        position: absolute;
+        right: -9px;
+        top: 1px;
+        width: 97%;
+        text-align: center;
+        padding-top: 13px;
+    }
+
+    .movie:hover img {
+        opacity:0.8;
+        
+    }
+
+    .movie:hover .span_hover {
+        display: block;
+        font-family: brixslab-light;
+    }
+
+
+
+
+
+/* End books */
 }
 /* end 768*/
 
