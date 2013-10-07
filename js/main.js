@@ -18,6 +18,12 @@ $(window).load(function (){
 		next: '.next',	
 	});
 	
+	
+	$('#behindTheScenes_slideshowImgStyle').carouFredSel({
+		prev: '.prev',
+		next: '.next',	
+	});
+	
 
 
 	
