@@ -19,9 +19,35 @@
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_768.css">
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_1024.css">
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_1600.css">
-
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/carruselStyle.css">
 
+
+
+
+
+        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-1.10.1.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.caroufredsel/jquery.carouFredSel-6.2.1.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-transition.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-alert.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-modal.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-dropdown.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-scrollspy.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-tab.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-tooltip.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-popover.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-button.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-collapse.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-carousel.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap-typeahead.js"></script>
+
+        <script src="<?php echo get_template_directory_uri(); ?>/js/bootstrap.min.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/jCarouselLite.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/otherCarrusel.js"></script>
+
+        <script src="<?php echo get_template_directory_uri(); ?>/js/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+        <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/js/fancybox/jquery.fancybox.css?v=2.1.5" media="screen" />
+
+        <script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
  
 
         
@@ -32,6 +58,7 @@
         <a href="http://69.89.31.69/~nedlandm/lb/" style="text-decoration:none;">
           <div id="bigTitle">Laurent Bouzereau</div>
         </a>
+        
         <div id="nav" >
           <ul>
             <li ><a id="menuLinks" href="http://69.89.31.69/~nedlandm/lb/about-3/">ABOUT</a></li>

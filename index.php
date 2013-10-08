@@ -6,10 +6,26 @@
 
         <div id="slideimage" class="sliderClass"> 
           <ul id="slideshowImgStyle"> 
-            <li><div id="carruselImg1"></div></li>
-            <li><div id="carruselImg2"></div></li>
-            <li><div id="carruselImg3"></div></li>
-            <li><div id="carruselImg4"></div></li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagehitchcock.jpg">
+                <img id="carruselImg1" src="<?php echo get_template_directory_uri(); ?>/img/1024/imagehitchcock.jpg"/>
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagelincoln.jpg">
+                <img id="carruselImg2" src="<?php echo get_template_directory_uri(); ?>/img/1024/imagelincoln.jpg">
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagepolaski.jpg">
+                <img id="carruselImg3" src="<?php echo get_template_directory_uri(); ?>/img/1024/imagepolaski.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/image4.png">
+                <img id="carruselImg4" src="<?php echo get_template_directory_uri(); ?>/img/1024/image4.png"/>
+              </a>
+            </li>
         
 
            
