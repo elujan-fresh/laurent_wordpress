@@ -1119,6 +1119,8 @@
        height: 37px;
        width: 100%;
        font-family: registersans;
+        position: fixed;
+
         
     }
 
@@ -1430,8 +1432,8 @@
 
     #nightAthTheMovies
     {
-        width: 1428px;
-        height: 871px;
+        width: 914px;
+        height: 541px;
         background: #979797;        
         margin: 37px auto 0 auto;
 
@@ -1445,18 +1447,19 @@
 
     #nightAthTheMovies_content
     {
-        width: 100%;
+         width: 100%;
         height: 100%;
         padding-left: 135px; 
         padding-right: 135px;
         padding-top: 24px;
         font-family: brixslab-light;
+        line-height: 1.3;
     }
 
     #nightAthTheMovies_content hr
     {
-       margin-left: -70px;
-       width:120%;
+        margin-left: -70px;
+       width:100%;
        border: 0.5px solid rgba(0,0,0,0.25);
        
     }
@@ -1469,31 +1472,30 @@
         word-spacing: .2em;
         text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
         color: white;
-        font-size: 31pt;
+        font-size: 21pt;
         font-family: brixslab-light;
         
 
     }
 
     #authorQuote{
-        font-size: 17pt;
+        font-size: 13pt;
     }
 
     .nightAthTheMovies_quote
     {
-        font-size: 23pt;
+        font-size: 14pt;
         color: white;
         font-weight: lighter;
-        padding:11px;
-        width: 1121px;
-        margin-left: -2px;
-        
+        text-align: center;
+        margin-left: -40px;
+        width: 743px;
         
     }
     
     .nightAthTheMovies_text_small
     {
-         font-size: 18pt;
+         font-size: 9pt;
          color: white;
          font-weight: lighter;
         
@@ -1501,20 +1503,21 @@
     
     #nightAthTheMovies_line
     {
-        width: 1238px !important;
+       width: 793px !important;
         height: 2px !important;
         margin: -2px 1px 0px -79px;
         background-image: url('../img/1024/night/line.png');
-    }
+        }
+    
     
 
 
     .nightAthTheMovies_text
     {
-        font-size: 17pt;
+        font-size: 11pt;
         text-align: justify;
         color: black;
-        
+}
         
 
     }
@@ -1538,7 +1541,7 @@
     #nightAthTheMovies_paginator a
     {   
         color: #666666;
-        font-size: 12pt;
+        font-size: 9pt;
         text-decoration: none;
         font-weight: bold;
 
@@ -1548,10 +1551,10 @@
     {
         font-family: brixslab-media;
         display: block;
-        width: 22px;
-        height: 22px;
+        width: 15px;
+        height: 15px;
         background: #3e3e3e;
-        font-size: 12pt;
+        font-size: 9pt;
         color: white;
         text-align: center;
 
@@ -1560,9 +1563,9 @@
 
 
     .nightAthTheMovies_paginator
-    {-
+    {
         font-family: brixslab-media;
-        font-size: 12pt;
+        font-size: 9pt;
         font-weight: bold;
         display: block;
         color: #4A4A4A;
@@ -1575,12 +1578,12 @@
     .nightAthTheMovies_paginator_active
     {   
         font-family: brixslab-media;
-        font-size: 12pt;
+        font-size: 9pt;
         font-weight: bold;
         display: block;
         color: white;
-        width: 22px;
-        height: 22px;
+        width: 15px;
+        height: 15px;
         background-image: url('../img/1024/night/selection.png');
     }
 
@@ -1590,10 +1593,10 @@
         font-family: brixslab-media;
         font-weight: bold;
         display: block;
-        width: 22px;
-        height: 22px;
+        width: 15px;
+        height: 15px;
         background: #3e3e3e;
-        font-size: 12pt;
+        font-size: 9pt;
         color: white;
         text-align: center;
 
@@ -1616,8 +1619,8 @@
 
   #nightAthTheMovies_image1
     {
-    width: 355px !important;
-    height: 454px !important;
+    width: 196px !important;
+    height: 305px !important;
     background-image: url('../img/1024/night/image2.png');
 
     }
@@ -1625,30 +1628,34 @@
 
     #nightAthTheMovies_image2
     {
-    width: 355px !important;
-    height: 454px !important;
+    width: 196px !important;
+    height: 305px !important;
     background-image: url('../img/1024/night/image1.png');
     margin: 0px 0px 0px 13px;   
     }
 
  #nightAthTheMovies_image3
     {
-    width: 355px !important;
-    height: 454px !important;
+    width: 196px !important;
+    height: 305px !important;
     background-image: url('../img/1024/night/image3.png');
     margin: 0px 0px 0px 13px;   
     }
 
     .nightAthTheMovies_list
     {
-        float: left;
-        margin-top: 50px;
-        margin-left: 160px;
-    }
+        position: relative;
+        left: 50%;
+        height: 400px;
+        margin-top: 25px;
+        width: 622px;
+        margin-left: -300px;
+  }
 
     .nightAthTheMovies_list > ul
      {
         padding-left: 0px;
+        width: 622px;
      }
 
     .nightAthTheMovies_list>ul> li
