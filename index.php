@@ -35,11 +35,27 @@
           <p>
             <span class="biotextauthor_title" >Recent</span>
         <p class="biopost_text">
-              <div class="biopost_text" id="marginFirstOp"><a  href="http://69.89.31.69/~nedlandm/lb/templatepage_dontsayno/" style="text-decoration:none;">Don’t Say No Until I Finish Talking</a></div>
-              <div class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/templatepage_nightatthemoviesepisode6/" style="text-decoration:none;">Night at the Movies: Episode 6</a></div>
-              <div class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/polanski/" style="text-decoration:none;">Roman Polanski: A Film Memoir</a></div>
-              <div class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/templatepage_behindthescenes/" style="text-decoration:none;">Behind the Scenes</a></div>
-              <div class="biopost_text"><a href="http://69.89.31.69/~nedlandm/lb/templatepage_hitchcock/" style="text-decoration:none;">Hitchcock: Piece by Piece</a></div>
+              <?php
+                $post = new WP_Query( 
+                  array(
+                    
+                    //'post_type'=>'news', 
+                    'orderby' => "post_date", 
+                    'order' => "DESC" 
+                  ) 
+                );
+
+                //die(print_r(array($post->posts),true));
+              ?>
+              <?php 
+                  foreach ($post->posts as $p) {
+                  
+                    # code...
+              ?>
+              <div class="biopost_text" id="marginFirstOp"><a  href="<?php echo $p->guid; ?>" style="text-decoration:none;"><?php echo $p->post_name; ?></a></div>
+              <?php
+                  }
+              ?>
             </p>
           </p>
         </div>
