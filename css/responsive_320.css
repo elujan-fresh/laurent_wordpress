@@ -310,6 +310,27 @@
         height: 154px !important;
     }
 
+ #slideshowImgStyle_480{
+        width: 480px;
+        height: 155px;
+        margin: 20px auto;
+    }
+
+    ul#slideshowImgStyle_480,
+    ul#slideshowImgStyle_480 li {
+        /* Setting a common base */
+        margin: 0;
+        padding: 0;
+        margin-left: 2px;
+    }
+
+    ul#slideshowImgStyle_480 li {
+        display: inline-block;
+        width: 110px !important;
+        min-height: 154px !important;
+        height: 154px !important;
+    }
+
     /*#slideshow li
     {
         display: inline;

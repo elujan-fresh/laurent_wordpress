@@ -5,7 +5,34 @@
         </div>
 
         <div id="slideimage" class="sliderClass"> 
-          <ul id="slideshowImgStyle"> 
+
+        <ul id="slideshowImgStyle_1600"> 
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image1.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image1.png"/>
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image2.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image2.png">
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image3.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image3.png" />
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image4.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image4.png"/>
+              </a>
+            </li>
+        
+
+           
+          </ul>
+
+          <ul id="slideshowImgStyle_1024"> 
             <li>
               <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagehitchcock.jpg">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/imagehitchcock.jpg"/>
@@ -26,10 +53,63 @@
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/image4.png"/>
               </a>
             </li>
+          </ul>
+
+          <ul id="slideshowImgStyle_768"> 
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image1.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image1.png"/>
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image2.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image2.png">
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image3.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image3.png" />
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image4.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image4.png"/>
+              </a>
+            </li>
+        
+          <ul id="slideshowImgStyle_480"> 
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image1.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image1.png"/>
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image2.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image2.png">
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image3.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image3.png" />
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image4.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image4.png"/>
+              </a>
+            </li>
         
 
            
           </ul>
+
+           
+          </ul>
+
+
+
+
+
         </div>
         <div id="slideshow_right" class="next">
         </div>

@@ -351,6 +351,40 @@
     }
 
 
+ #slideshowImgStyle_1024{
+        width: 730px;
+        height: 327px;
+        margin: 27px auto;
+    }
+
+    ul#slideshowImgStyle_1024,
+    ul#slideshowImgStyle_1024 li {
+        /* Setting a common base */
+        margin: 0;
+        padding: 0;
+        margin-left: 20px;
+    }
+
+    ul#slideshowImgStyle_1024 li {
+        display: inline-block;
+        width: 212px !important;
+        min-height: 302px !important;
+        height: 302px !important;
+    }
+
+    #slideshowImgStyle_1600{
+        display: none;
+    }
+
+    #slideshowImgStyle_768{
+        display: none;
+    }
+
+    #slideshowImgStyle_480{
+        display: none;
+    }
+
+
     /*#slideshow li
     {
         display: inline;
