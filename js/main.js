@@ -23,6 +23,11 @@ $(window).load(function (){
 		prev: '.prev',
 		next: '.next',	
 	});
+
+
+	$("#slideshowImgStyle a").fancybox();
+
+
 	
 
 
