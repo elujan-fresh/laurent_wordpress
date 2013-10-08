@@ -9,7 +9,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/480/books/image1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/480/books/image1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -24,25 +24,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/480/books/image2.png" />
-						<span class="span_hover">
-						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
-						</p>
-						</span>
-					</div>
-				</li>
-			</ul>
-			
-			<ul>
-				<li>
-					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/480/books/image3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/480/books/image2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -60,7 +42,25 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/480/books/image4.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/480/books/image3.png" />
+						<span class="span_hover">
+						<p>
+							STEVEN SPIELBERG'S
+							WAR HORSE 
+							
+							Contributor
+							
+							Newmarket Press(2011)
+						</p>
+						</span>
+					</div>
+				</li>
+			</ul>
+			
+			<ul>
+				<li>
+					<div class="movie">
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/480/books/image4.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -75,7 +75,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/480/books/image5.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/480/books/image5.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -98,7 +98,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/768/books/image_a1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_a1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -113,7 +113,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/768/books/image_a2.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_a2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -128,7 +128,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/768/books/image_a3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_a3.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -151,7 +151,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/768/books/image_b1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_b1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -166,7 +166,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/768/books/image_b2.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_b2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -181,7 +181,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/768/books/image_b3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_b3.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -200,7 +200,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/768/books/image_c1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_c1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -215,7 +215,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/768/books/image_c2.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_c2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -230,7 +230,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/768/books/image_c3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_c3.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -251,7 +251,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1024/books/row_a1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_a1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -266,7 +266,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1024/books/row_a2.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_a2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -281,7 +281,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1024/books/row_a3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_a3.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -300,7 +300,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1024/books/row_b1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_b1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -315,7 +315,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1024/books/row_b2.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_b2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -330,7 +330,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1024/books/row_b3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_b3.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -349,7 +349,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1024/books/row_c1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_c1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -364,7 +364,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1024/books/row_c2.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_c2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -379,7 +379,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1024/books/row_c3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_c3.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -401,7 +401,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1600/books/image_a1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_a1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -416,7 +416,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1600/books/image_a2.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_a2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -431,7 +431,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1600/books/image_a3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_a3.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -450,7 +450,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1600/books/image_b1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_b1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -465,7 +465,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1600/books/image_b2.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_b2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -480,7 +480,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1600/books/image_b3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_b3.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -499,7 +499,7 @@
 			<ul>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1600/books/image_c1.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_c1.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -514,7 +514,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1600/books/image_c2.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_c2.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S
@@ -529,7 +529,7 @@
 				</li>
 				<li>
 					<div class="movie">
-						<img src="wp-content/themes/laurent_wordpress/img/1600/books/image_c3.png" />
+						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_c3.png" />
 						<span class="span_hover">
 						<p>
 							STEVEN SPIELBERG'S

@@ -1946,5 +1946,210 @@
 
 
 /* End books */
+
+/* documentaries other and compact */
+    #documentariesOtherCompact_content
+    {
+        width: 480px;
+        height: 993px;
+        background-color: #919191;
+        margin: 0 auto;
+        margin-top: 26px;
+        font-family: brixslab-light;
+
+        background-image: url('../img/480/misc/background.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin:content-box;
+        background-size:100% 100%;
+
+    }
+
+    
+
+    #documentariesOtherCompact_documentaries
+    {
+        margin-top: 25px;
+        margin-left: 52px;
+        float: left;
+        width: 430px;
+    }
+
+    .documentariesOtherCompact_documentaries_title
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 20pt;
+        font-family: brixslab-light;
+
+    }
+
+    .documentariesOtherCompact_documentaries_info
+    {
+        margin-top: 18px; 
+        float: left;
+        width: 300px;
+        font-size: 10pt;
+        color: black;
+
+    }
+
+    #documentariesOtherCompact_compact
+    {
+        margin-top: 20px;
+        margin-left: 52px;
+        float: left;
+        width: 300px;
+    }
+
+   .documentariesOtherCompact_compact
+    {
+        color: black;
+        font-size: 10pt;
+        width: 300px;
+        line-height:0.99;
+
+    }
+
+    .documentariesOtherCompact_compact_title
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 17pt;
+        font-family: brixslab-light;
+
+    }
+
+
+
+  #documentariesOtherCompact_other
+    {
+        margin-top: 20px;
+        margin-left: 52px;
+        float: left;
+        width: 300px;
+    }
+
+   .documentariesOtherCompact_other
+    {
+        color: black;
+        font-size: 10pt;
+        width: 300px;
+        line-height:0.99;
+
+    }
+
+    .documentariesOtherCompact_other_title
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 17pt;
+        font-family: brixslab-light;
+
+    }
+
+
+   .documentariesOtherCompact_imgs_content
+    {
+        float: left;
+
+    }
+
+    .documentariesOtherCompact_imgs_content > ul
+     {
+        padding-left: 0px;
+     }
+
+    .documentariesOtherCompact_imgs_content>ul> li
+    {
+        display: inline-block;
+    }
+    
+    #documentariesOtherCompact_img1
+    {
+    width: 127px !important;
+    height: 44px !important;
+    background-image: url('../img/480/misc/image1.png');
+
+    }
+        
+
+    #documentariesOtherCompact_img2
+    {
+    width: 127px !important;
+    height: 44px !important;
+    background-image: url('../img/480/misc/image2.png');
+    margin: 0px 0px 0px 13px;   
+    }
+
+    #documentariesOtherCompact_img3
+    {
+    width: 127px !important;
+    height: 44px !important;
+    background-image: url('../img/480/misc/image3.png');
+
+    }
+        
+
+    #documentariesOtherCompact_img4
+    {
+    width: 127px !important;
+    height: 44px !important;
+    background-image: url('../img/480/misc/image4.png');
+    margin: 0px 0px 0px 13px;   
+    }
+
+/* end documentaries other and compact */
+
+/*Contact*/
+
+#contact
+{
+    width: 100%;
+}
+
+
+.contact
+{
+    background: url("../img/480/contact/background.png") no-repeat scroll center center;
+    width: 386px;
+    height: 280px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact>ul
+{
+    padding-left: 0px;
+}
+
+.contact>ul>li
+{
+    list-style: none;
+}
+
+.contact_border
+{
+    border-bottom: 1px solid;
+    padding-top: 10px;
+}
+
+.contact_title
+{
+    font-family: registersans;
+    text-transform: uppercase;
+    color:  #999999;
+}
+
+.contact_person
+{
+    font-family: brixslab-light;
+    color: #660066;
+}
+
+.contact_back
+{
+    font-family: brixslab-light;
+}
 }
 /* end 320 v2*/

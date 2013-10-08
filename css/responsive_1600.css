@@ -1980,8 +1980,244 @@
 
 
 /* End books */
+/* documentaries other and compact */
+    #documentariesOtherCompact_content
+    {
+        width: 1428px;
+        height: 1108px;
+        background-color: #919191;
+        margin: 0 auto;
+        margin-top: 38px;
+        font-family: brixslab-light;
+
+        background-image: url('../img/1600/about/background.png');
+        background-repeat: repeat-x;
+        background-position: center;
+        background-origin:content-box;
+        background-size:100% 100%;
+
+    }
 
 
+    #documentariesOtherCompact_documentaries
+    {
+        margin-top: 41px;
+        margin-left: 61px;
+        float: left;
+        width: 888px;
+    }
+
+    .documentariesOtherCompact_documentaries_title
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 24pt;
+        font-family: brixslab-light;
+
+    }
+
+    .documentariesOtherCompact_documentaries_info
+    {
+        color: black;
+        font-size: 13pt;
+        width: 778px;
+        margin-top: 25px;
+
+    }
+
+    .documentariesOtherCompact_other_title
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 24pt;
+        font-family: brixslab-light;
+
+    }
+    #documentariesOtherCompact_other
+    {
+        margin-top: -59px;
+        margin-left: 974px;
+        float: left;
+        width: 416px;
+    }
+
+   .documentariesOtherCompact_other
+    {
+        color: black;
+        font-size: 14pt;
+        width: 416px;
+        margin-top: 25px;
+        line-height: 0.99;
+    }
+
+ .documentariesOtherCompact_compact_title
+    {
+        text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
+        color: white;
+        font-size: 24pt;
+        font-family: brixslab-light;
+
+    }
+    #documentariesOtherCompact_compact
+    {
+        margin-top: -626px;
+        margin-left: 974px;
+        float: left;
+        width: 416px;
+    }
+
+   .documentariesOtherCompact_compact
+    {
+        color: black;
+        font-size: 14pt;
+        width: 416px;
+        margin-top: 25px;
+        line-height: 0.99;
+    }
+
+
+
+ .documentariesOtherCompact_imgs_content
+    {
+        float: left;
+
+    }
+
+        .documentariesOtherCompact_imgs_content > ul
+     {
+        padding-left: 0px;
+     }
+
+    .documentariesOtherCompact_imgs_content>ul> li
+    {
+        display: inline-block;
+    }
+    
+    #documentariesOtherCompact_img1
+    {
+    width: 208px !important;
+    height: 72px !important;
+    background-image: url('../img/1600/misc/logo1.png');
+
+    }
+        
+
+    #documentariesOtherCompact_img2
+    {
+   width: 208px !important;
+    height: 72px !important;
+    background-image: url('../img/1600/misc/logo2.png');
+    margin: 0px 0px 0px 13px;   
+    }
+
+    #documentariesOtherCompact_img3
+    {
+    width: 208px !important;
+    height: 72px !important;
+    background-image: url('../img/1600/misc/logo3.png');
+
+    }
+        
+
+    #documentariesOtherCompact_img4
+    {
+    width: 208px !important;
+    height: 72px !important;
+    background-image: url('../img/1600/misc/logo4.png');
+    margin: 0px 0px 0px 13px;   
+    }
+
+
+
+/* end documentaries other and compact */
+
+
+ /*Contact*/
+
+
+    #contact
+    {
+        width: 100%;
+    }
+
+
+    .contact
+    {
+        background:  #EFEFEF;
+        width: 1426px;
+        height: 258px;
+        margin: 0 auto;
+        margin-top: 30px;
+        padding-top: 20px;
+        text-align: left;
+    }
+
+    .contact>ul
+    {
+        height: 216px;
+        padding-left: 0px;
+        margin-left:128px;
+    }
+
+    .contact>ul>li
+    {
+        list-style: none;
+        display: inline-block;
+        height: 216px;
+
+    }
+
+    .contact_1600_margin_1
+    {
+        border-left: 1px solid;
+        padding-left: 10px !important;
+    }
+
+
+    .contact_1600_margin_2
+    {
+        border-left: 1px solid;
+        padding-left: 10px ;
+        margin-left: 70px;
+
+    }
+
+    .contact_1600_margin_3
+    {
+        
+        padding-left: 10px !important;
+    }
+
+
+
+    .contact_border
+    {
+        
+    }
+
+    .contact_title
+    {
+        font-family: registersans;
+        text-transform: uppercase;
+        color:  #999999;
+        font-size: 4em;
+    }
+
+    .contact_person
+    {
+        font-family: brixslab-light;
+        color: #660066;
+        font-size: 2.5em;
+    }
+
+    .contact_back
+    {
+        font-family: brixslab-light;
+        font-size: 2.5em;
+    }
+
+
+    /*End Contact */
 }
 /* end 1600 */
 

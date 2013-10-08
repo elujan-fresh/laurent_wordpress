@@ -24,7 +24,7 @@ include('header.php');
                         
               <ul>
                 <li class="active"><span class="paginator_active">1</span></li>
-                <li><span class="paginator"><a href="new.php" style="text-decoration:none;">2</a></span></li>
+                <li><span class="paginator"><a href="http://69.89.31.69/~nedlandm/lb/templatepage_polanski2" style="text-decoration:none;">2</a></span></li>
                
               </ul>
             

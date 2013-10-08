@@ -29,23 +29,23 @@
     <body>
       
       <div id="header">
-        <a href="index.php" style="text-decoration:none;">
+        <a href="http://69.89.31.69/~nedlandm/lb/" style="text-decoration:none;">
           <div id="bigTitle">Laurent Bouzereau</div>
         </a>
         <div id="nav" >
           <ul>
-            <li ><a id="menuLinks" href="about.php">ABOUT</a></li>
+            <li ><a id="menuLinks" href="http://69.89.31.69/~nedlandm/lb/about-3/">ABOUT</a></li>
             <li class="submenu">
               <a href="#">WORK</a>
               <ul class="header_submenu">
-                <li><a id="menuLinks" href="feature_documentaries.php">Feature Documentaries</a></li>
-                <li><a id="menuLinks" href="fullwidthpost.php">A Night at the movies</a></li>
-                <li><a id="menuLinks" href="behind.php">Behind the Scenes</a></li>
-                <li><a id="menuLinks" href="books.php">Books</a></li>
-                <li><a id="menuLinks" href="misc.php">Miscellaneous</a></li>
+                <li><a id="menuLinks" href="http://69.89.31.69/~nedlandm/lb/features/">Feature Documentaries</a></li>
+                <li><a id="menuLinks" href="http://69.89.31.69/~nedlandm/lb/nightatthemovies/">A Night at the movies</a></li>
+                <li><a id="menuLinks" href="http://69.89.31.69/~nedlandm/lb/behind/">Behind the Scenes</a></li>
+                <li><a id="menuLinks" href="http://69.89.31.69/~nedlandm/lb/books-2/">Books</a></li>
+                <li><a id="menuLinks" href="http://69.89.31.69/~nedlandm/lb/documentaries_other_compact/">Miscellaneous</a></li>
               </ul>
             </li>
-            <li><a href="contact.php">CONTACT</a></li>
+            <li><a href="http://69.89.31.69/~nedlandm/lb/contact-3/">CONTACT</a></li>
             
           </ul>
           
