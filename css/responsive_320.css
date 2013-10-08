@@ -330,6 +330,17 @@
         min-height: 154px !important;
         height: 154px !important;
     }
+     #slideshowImgStyle_1600{
+        display: none;
+    }
+
+    #slideshowImgStyle_1024{
+        display: none;
+    }
+
+    #slideshowImgStyle_768{
+        display: none;
+    }
 
     /*#slideshow li
     {
