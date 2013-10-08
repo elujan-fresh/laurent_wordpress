@@ -12,12 +12,10 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/480/books/image1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
+							HITCHCOCK 
+							PIECE BY PIECE 
 							
-							Contributor
 							
-							Newmarket Press(2011)
 						</p>
 						</span>
 					</div>
@@ -27,12 +25,7 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/480/books/image2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							LINCOLN
 						</p>
 						</span>
 					</div>
@@ -63,12 +56,7 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/480/books/image4.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							INDIANA JONES
 						</p>
 						</span>
 					</div>
@@ -78,12 +66,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/480/books/image5.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							E.T
+							THE EXTRA-TERRESTRIAL
 						</p>
 						</span>
 					</div>
@@ -101,12 +85,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_a1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							HITCHCOCK 
+							PIECE BY PIECE
 						</p>
 						</span>
 					</div>
@@ -116,12 +96,7 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_a2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							LINCOLN
 						</p>
 						</span>
 					</div>
@@ -154,12 +129,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_b1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							INDIANA JONES
+
 						</p>
 						</span>
 					</div>
@@ -169,12 +140,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_b2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							E.T
+							THE EXTRA-TERRESTRIAL
 						</p>
 						</span>
 					</div>
@@ -184,12 +151,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_b3.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							ALMA HITCHCOCK
+
 						</p>
 						</span>
 					</div>
@@ -203,12 +166,9 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_c1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							STAR WARS
+							THE MAKING OF EPISODE 1
+
 						</p>
 						</span>
 					</div>
@@ -218,12 +178,9 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_c2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							THE ART OF BOND 
+							007
+
 						</p>
 						</span>
 					</div>
@@ -233,12 +190,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/768/books/image_c3.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							STAR WARS
+							THE ANNOTATED SCREEN PLAY
 						</p>
 						</span>
 					</div>
@@ -254,12 +207,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_a1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							HITCHCOCK 
+							PIECE BY PIECE
 						</p>
 						</span>
 					</div>
@@ -269,12 +218,7 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_a2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							LINCOLN
 						</p>
 						</span>
 					</div>
@@ -303,12 +247,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_b1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							INDIANA JONES 
+
 						</p>
 						</span>
 					</div>
@@ -318,12 +258,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_b2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							E.T
+							THE EXTRA-TERRESTRIAL
 						</p>
 						</span>
 					</div>
@@ -333,12 +269,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_b3.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							ALMA HITCHCOCK
+
 						</p>
 						</span>
 					</div>
@@ -352,12 +284,9 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_c1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							STAR WARS
+							THE MAKING OF EPISODE 1
+
 						</p>
 						</span>
 					</div>
@@ -367,12 +296,9 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_c2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							THE ART OF BOND 
+							007
+
 						</p>
 						</span>
 					</div>
@@ -382,12 +308,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1024/books/row_c3.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							STAR WARS
+							THE ANNOTATED SCREEN PLAY
 						</p>
 						</span>
 					</div>
@@ -404,12 +326,9 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_a1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							HITCHCOCK 
+							PIECE BY PIECE 
+
 						</p>
 						</span>
 					</div>
@@ -419,12 +338,7 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_a2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							LINCOLN
 						</p>
 						</span>
 					</div>
@@ -453,12 +367,7 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_b1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							INDIANA JONES
 						</p>
 						</span>
 					</div>
@@ -468,12 +377,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_b2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							E.T
+							THE EXTRA-TERRESTRIAL 
 						</p>
 						</span>
 					</div>
@@ -483,12 +388,8 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_b3.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
 							
-							Contributor
-							
-							Newmarket Press(2011)
+							ALMA HITCHCOCK
 						</p>
 						</span>
 					</div>
@@ -502,12 +403,9 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_c1.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
 							
-							Contributor
-							
-							Newmarket Press(2011)
+							STAR WARS
+							THE MAKING OF EPISODE 1
 						</p>
 						</span>
 					</div>
@@ -517,12 +415,9 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_c2.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							THE ART OF BOND 
+							007
+
 						</p>
 						</span>
 					</div>
@@ -532,12 +427,9 @@
 						<img src="http://69.89.31.69/~nedlandm/lb/wp-content/themes/laurent_wordpress/img/1600/books/image_c3.png" />
 						<span class="span_hover">
 						<p>
-							STEVEN SPIELBERG'S
-							WAR HORSE 
-							
-							Contributor
-							
-							Newmarket Press(2011)
+							STAR WARS
+							THE ANNOTATED SCREEN PLAY
+
 						</p>
 						</span>
 					</div>

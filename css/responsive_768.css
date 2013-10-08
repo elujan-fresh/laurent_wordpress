@@ -1081,6 +1081,8 @@
        height: 37px;
        width: 100%;
        font-family: registersans;
+         position: fixed;
+
         
     }
 

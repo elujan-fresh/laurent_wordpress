@@ -270,13 +270,6 @@
 
     }
 
-   /* #slideimage img
-    {
-        height: 512px;
-        height: 300px;
-        
-    }*/
-
 
     #slideshow_right
     {
@@ -312,15 +305,6 @@
     }
 
 
-    /*#slideshow li
-    {
-        display: inline;
-        list-style: none;
-        margin-left: 30px;
-        width: 312px !important;
-        height: 441px !important;
-    }*/
-
     #slideshow_left>img{
         width: 40px;
         height: 40px;
@@ -331,7 +315,6 @@
         height: 40px;
     }
 
-/*carrusel*/
 #carruselImg1
 {
     width: 312px !important;
@@ -1083,6 +1066,8 @@
        height: 37px;
        width: 100%;
        font-family: registersans;
+        position: fixed;
+
         
     }
 
@@ -1524,7 +1509,7 @@
 
 
     .nightAthTheMovies_paginator
-    {-
+    {
         font-family: brixslab-media;
         font-size: 12pt;
         font-weight: bold;
@@ -1605,14 +1590,20 @@
 
     .nightAthTheMovies_list
     {
-        float: left;
+
+        position: relative;
+        left: 50%;
+        height: 600px;
         margin-top: 50px;
-        margin-left: 160px;
+        width: 1427px;
+        margin-left: -600px;
     }
 
     .nightAthTheMovies_list > ul
      {
         padding-left: 0px;
+        width: 1427px;
+
      }
 
     .nightAthTheMovies_list>ul> li
@@ -1833,7 +1824,7 @@
 #behindTheScenes_leftList_480{
     display: none;
 }
-    /*End behind at the movies */
+   
 
 /*inicia books*/
      #books
@@ -1925,12 +1916,6 @@
         display: block;
         font-family: brixslab-light;
     }
-
-
-
-
-
-/* End books */
 /* documentaries other and compact */
     #documentariesOtherCompact_content
     {

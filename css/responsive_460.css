@@ -1091,6 +1091,8 @@
        min-width: 490px;
        width: 100%;
        font-family: registersans;
+         position: fixed;
+
         
     }
 
