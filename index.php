@@ -76,6 +76,7 @@
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image4.png"/>
               </a>
             </li>
+          </ul>
         
           <ul id="slideshowImgStyle_480"> 
             <li>
@@ -104,7 +105,7 @@
           </ul>
 
            
-          </ul>
+          
 
 
 
