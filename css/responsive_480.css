@@ -964,56 +964,6 @@
     /* End Behind */
 
 
-
-    /* Contact */
-    #contact
-    {
-        width: 915px;
-        height: 165px;
-        margin: 0 auto;
-        background: url('../img/480/contact/contact.png') #f0f0f0 ;
-    }
-
-    #contact ul
-    {
-        padding-top: 43px;
-        padding-left: 170px;
-    }
-    
-    #contact ul li
-    {
-        display: inline-block;
-    }
-
-    .contact_title 
-    {
-
-        
-        font-family: registersans;
-        font-size: 15pt;
-        font-weight: bold;
-        color: #736967;
-
-    }
-
-    .contact_name
-    {
-
-        font-family: brixslab-regular;
-        font-size: 11pt;
-        color: #660066;
-    }
-
-    .contact_resolution
-    {
-        font-family: brixslab-regular;
-        font-size: 10pt;
-        font-weight: bold;
-        color: #010101;
-    }
-
-    /* End Contact */
-
     
 
    /* Feature */

@@ -967,55 +967,7 @@
 
 
 
-    /* Contact */
-    #contact
-    {
-        width: 915px;
-        height: 165px;
-        margin: 0 auto;
-        background: url('../img/1600/contact/contact.png') #f0f0f0 ;
-    }
-
-    #contact ul
-    {
-        padding-top: 43px;
-        padding-left: 170px;
-    }
     
-    #contact ul li
-    {
-        display: inline-block;
-    }
-
-    .contact_title 
-    {
-
-        
-        font-family: registersans;
-        font-size: 22pt;
-        font-weight: bold;
-        color: #736967;
-
-    }
-
-    .contact_name
-    {
-
-        font-family: brixslab-regular;
-        font-size: 11pt;
-        color: #660066;
-    }
-
-    .contact_resolution
-    {
-        font-family: brixslab-regular;
-        font-size: 10pt;
-        font-weight: bold;
-        color: #010101;
-    }
-
-    /* End Contact */
-
     
 
    /* Feature */
@@ -2138,6 +2090,7 @@
     #contact
     {
         width: 100%;
+        margin-top: 50px;
     }
 
 
@@ -2163,7 +2116,7 @@
     {
         list-style: none;
         display: inline-block;
-        height: 216px;
+        height: 146px;
 
     }
 
@@ -2200,20 +2153,20 @@
         font-family: registersans;
         text-transform: uppercase;
         color:  #999999;
-        font-size: 4em;
+        font-size: 20pt;
     }
 
     .contact_person
     {
         font-family: brixslab-light;
         color: #660066;
-        font-size: 2.5em;
+        font-size: 16pt;
     }
 
     .contact_back
     {
         font-family: brixslab-light;
-        font-size: 2.5em;
+        font-size: 16pt;
     }
 
 
