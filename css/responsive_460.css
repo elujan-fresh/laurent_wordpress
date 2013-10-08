@@ -80,7 +80,8 @@
 
         .header_shadow_left
         {
-            background-image: url('../img/480/shadow_left.png');
+            /*background-image: url('../img/480/shadow_left.png');*/
+            background-image: url('../img/480/shadow_center.png');
             background-repeat: repeat-x;
             background-origin:content-box;
             width: 33%;
@@ -91,7 +92,8 @@
 
         .header_shadow_right
         {
-            background-image: url('../img/480/shadow_right.png');
+            /*background-image: url('../img/480/shadow_right.png');*/
+            background-image: url('../img/480/shadow_center.png');
             background-origin:content-box;
             background-repeat: repeat-x;
             width: 33%;
@@ -241,7 +243,6 @@
     {
         width: 480px;
         height: 155px;
-        background-color:#202020;
         margin: 20px auto;
     }
 
@@ -708,7 +709,6 @@
     {
         width: 980px;
         height: auto;
-        background: #979797;        
         margin: 26px auto 29px auto;
         padding-bottom: 29px;
         padding-top: 29px;
@@ -1691,7 +1691,6 @@
     {
         width: 480px;
         height: 155px;
-        background-color:#202020;
         margin: 20px auto;
     }
 
@@ -1816,7 +1815,6 @@
 
     #books
     {
-       background: #979797;
        width: 100%;
        height: auto;
        margin-top: 0px; 
