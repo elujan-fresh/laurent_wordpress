@@ -13,17 +13,67 @@ $(window).load(function (){
 
 
 
-
-
 	
+		
+			$('#slideshowImgStyle_480').carouFredSel({
+				items:
+				{
+					visible: 
+					{
+						min: 2,
+						max: 2,
+					}
+				},
+				responsive:true,
+			});	
+			$("#slideshowImgStyle_480 a").fancybox();	
 
 
+			$('#slideshowImgStyle_768').carouFredSel({
+				items:
+				{
+					visible: 
+					{
+						min: 2,
+						max: 2,
+					}
+				},
+				responsive:true,
 
-	
+			});	
+			$("#slideshowImgStyle_768 a").fancybox();	
 
 
-	
+			$('#slideshowImgStyle_1024').carouFredSel({
+				items:
+				{
+					visible: 
+					{
+						min: 3,
+						max: 3,
+					}
+				},
+				responsive:true,
+			});	
+			$("#slideshowImgStyle_1024 a").fancybox();	
 
+			$('#slideshowImgStyle_1600').carouFredSel({
+				items:
+				{
+					width: 312,
+					visible: 
+					{
+
+						min: 4,
+						max: 4,
+					}
+				},
+				responsive:true,
+			});	
+			$("#slideshowImgStyle_1600 a").fancybox();	
+
+
+			
 
 	
 	
