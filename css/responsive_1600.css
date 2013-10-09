@@ -283,32 +283,11 @@
 
     }
 
-    #slideshowImgStyle{
+    #slideshowImgStyle_1600{ 
         width: 1426px;
         height: 512px;
         margin: 40px auto;
-    }
-
-    ul#slideshowImgStyle,
-    ul#slideshowImgStyle li {
-        /* Setting a common base */
-        margin: 0;
-        padding: 0;
-        margin-left: 20px;
-    }
-
-    ul#slideshowImgStyle li {
-        display: inline-block;
-        width: 312px !important;
-        min-height: 441px !important;
-        height: 441px !important;
-    }
-
-
-    #slideshowImgStyle_1600{
-        width: 1426px;
-        height: 512px;
-        margin: 40px auto;
+        display: block;
     }
 
     ul#slideshowImgStyle_1600,
@@ -321,9 +300,9 @@
 
     ul#slideshowImgStyle_1600 li {
         display: inline-block;
-        width: 312px !important;
+        /*width: 312px !important;
         min-height: 441px !important;
-        height: 441px !important;
+        height: 441px !important;*/
     }
 
 
