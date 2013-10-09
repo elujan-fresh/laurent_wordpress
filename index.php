@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-	
+  
  <div id="slideshow" >
         <div id="slideshow_left" class="prev">
         </div>
@@ -205,21 +205,25 @@
                 $post = new WP_Query( 
                   array(
                     
-                    //'post_type'=>'news', 
+                    'post_type'=>"post", 
                     'orderby' => "post_date", 
                     'order' => "DESC" 
                   ) 
                 );
-
-                //die(print_r(array($post->posts),true));
+                $recent_posts = wp_get_recent_posts();
+                
               ?>
               <?php 
-                  foreach ($post->posts as $p) {
-                  
+                  $count = 0 ;
+                  foreach ($recent_posts as $p) {
+                    if($count <= 5)
+                    {
                     # code...
               ?>
-              <div class="biopost_text" id="marginFirstOp"><a  href="<?php echo $p->guid; ?>" style="text-decoration:none;"><?php echo $p->post_name; ?></a></div>
+              <div class="biopost_text" id="marginFirstOp"><a  href="<?php echo $p['guid']; ?>" style="text-decoration:none;"><?php echo $p['post_title']; ?></a></div>
               <?php
+                    }
+                    $count++;
                   }
               ?>
             </p>
