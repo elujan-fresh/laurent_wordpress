@@ -14,31 +14,17 @@ $(window).load(function (){
 
 
 
-	$('#slideshowImgStyle_1600').carouFredSel({
-		items:4,
-	});
+
 	
-	$("#slideshowImgStyle_1600 a").fancybox();
 
 
-	$('#slideshowImgStyle_1024').carouFredSel({
-		items:4,
-	});
+
 	
-	$("#slideshowImgStyle_1024 a").fancybox();
 
 
-	$('#slideshowImgStyle_768').carouFredSel({
-		items:3,
-	});
 	
-	$("#slideshowImgStyle_768 a").fancybox();
 
 
-	$('#slideshowImgStyle_480').carouFredSel({
-		items:3,
-	});
 	
-	$("#slideshowImgStyle_480 a").fancybox();
 	
 });
