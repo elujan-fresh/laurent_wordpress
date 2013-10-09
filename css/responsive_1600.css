@@ -305,6 +305,13 @@
         height: 441px !important;*/
     }
 
+    #slideshowImgStyle_1600 img {
+        display: inline-block;
+        width: 312px !important;
+        min-height: 441px !important;
+        height: 441px !important;
+    }
+
 
     #slideshowImgStyle_1024{
         display: none;

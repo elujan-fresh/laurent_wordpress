@@ -351,6 +351,13 @@
         height: 302px !important;*/
     }
 
+    #slideshowImgStyle_1024 img {
+        display: inline-block;
+        width: 212px !important;
+        min-height: 302px !important;
+        height: 302px !important;
+    }
+
    #slideshowImgStyle_1600{
         display: none;
     }

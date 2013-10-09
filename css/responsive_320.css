@@ -310,6 +310,13 @@
         height: 154px !important;*/
     }
 
+    #slideshowImgStyle_480 img {
+        display: inline-block;
+        width: 110px !important;
+        min-height: 154px !important;
+        height: 154px !important;
+    }
+
     #slideshowImgStyle_1600{
         display: none;
     }

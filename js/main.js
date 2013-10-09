@@ -20,8 +20,8 @@ $(window).load(function (){
 				{
 					visible: 
 					{
-						min: 2,
-						max: 2,
+						min: 3,
+						max: 3,
 					}
 				},
 				responsive:true,
@@ -34,8 +34,8 @@ $(window).load(function (){
 				{
 					visible: 
 					{
-						min: 2,
-						max: 2,
+						min: 3,
+						max: 3,
 					}
 				},
 				responsive:true,
@@ -60,7 +60,6 @@ $(window).load(function (){
 			$('#slideshowImgStyle_1600').carouFredSel({
 				items:
 				{
-					width: 312,
 					visible: 
 					{
 
