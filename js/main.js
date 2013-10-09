@@ -13,8 +13,18 @@ $(window).load(function (){
 
 
 
-	
-		
+			$('#behindTheScenes_slideshowImgStyle').carouFredSel({
+				items:
+				{
+					visible: 
+					{
+						min: 1,
+						max: 1,
+					}
+				},
+				responsive:true,
+			});	
+				
 			$('#slideshowImgStyle_480').carouFredSel({
 				items:
 				{
