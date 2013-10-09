@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Laurent Bouzereau</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name=viewport content="width=device-width, initial-scale=5.0, minimum-scale=0.5 maximum-scale=1.0">
         <meta name="description" content="<?php bloginfo('description'); ?>">
         <meta name="author" content="">
 
@@ -50,6 +50,8 @@
         <script src="<?php echo get_template_directory_uri(); ?>/js/main.js"></script>
  
 
+        <script src="<?php echo get_template_directory_uri(); ?>/js/responsivemobilemenu.js"></script>
+
         
     </head>
     <body>
@@ -78,17 +80,31 @@
           
         </div>
         
-        <div id="nav_mobile"  >
-          <span>Contact&nbsp;<i class="icon-reorder"></i></span>
+        <div id="nav_480" >
+          <ul>
+            <li ><a id="menuLinks" href="http://69.89.31.69/~nedlandm/lb/about-3/">ABOUT</a></li>
+            <li><a href="http://69.89.31.69/~nedlandm/lb/contact-3/">CONTACT</a></li>
+            <li><a href="#">WORK</a></li>
+
+          </ul>
+          
         </div>
 
-      </div>
+       
+        <div id="submenu_480">
+            <div class="rmm" data-menu-style = "minimal"  data-menu-title = " ">
+                        <ul>
+                            <li><a href='http://69.89.31.69/~nedlandm/lb/features/'>Feature Documentaries</a></li>
+                            <li><a href='http://69.89.31.69/~nedlandm/lb/nightatthemovies/'>A Night at the movies</a></li>
+                            <li><a href='http://69.89.31.69/~nedlandm/lb/behind/'>Behind the Scenes</a></li>
+                            <li><a href='http://69.89.31.69/~nedlandm/lb/books-2/'>Books</a></li>
+                            <li><a href='http://69.89.31.69/~nedlandm/lb/documentaries_other_compact/'>Miscellaneous</a></li>
 
+                        </ul>
+            </div>
+          </div>
 
-
-     
-
-
+        </div>
 
 
       <div class="header_shadow">

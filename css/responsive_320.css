@@ -12,10 +12,7 @@
         
     
     /* Section hides */
-    #nav_mobile
-    {
-        display: none;
-    }
+   
 
     #bioexcerpt_480
     {
@@ -59,7 +56,8 @@
         width: 100%;   
         text-align: center;
         background-color:#f0f0f0;
-        height: 105px;
+        min-height: 105px;
+        height: auto;
 
     }
 
@@ -119,53 +117,63 @@
     
     }
 
-    #nav{
+      #nav{
         
        display: none;
+
+    }
+
+
+/*menu 480*/
+
+    #nav_480{
+        
+        display: block;
         font-size: 15pt;
         margin-left: -71px;
         margin-top: 16px;
     }
    
 
-    #nav ul
+    #nav_480 ul
     {
-
+        text-align: right;
+        margin-right: 71px;
     }
 
-    #nav ul li a
+    #nav_480 ul li a
     {   
         color: #666666;
         font-family: registersans;
         font-size: 14pt;
     }
 
-    #nav ul li:hover
+    #nav_480 ul li:hover
     {   
        text-align: center;
     }
 
-    #nav a
+    #nav_480 a
     {
         text-decoration: none;   
     }
 
-    #nav a:hover
+    #nav_480 a:hover
     {
         color: #666666;
 
     }
 
-    #nav li 
+    #nav_480 li 
     {
         display: inline;
         list-style: none;
         padding-left: 31px;
     }
 
-    #nav li ul 
+    #nav_480 li ul 
     {
-        display: none; 
+        display: block; 
         background: url('../img/480/menu/submenu.png');
         background-repeat: no-repeat;
         padding-top: 4px;
@@ -174,13 +182,13 @@
 
     }
 
-    #nav li:hover ul
+    #nav_480 li:hover ul
     {
         display: block;
         position: absolute; 
     }
 
-    #nav li ul li
+    #nav_480 li ul li
     {
         padding-left: 0;
         padding-right: 20px;
@@ -192,11 +200,111 @@
 
     }
 
-    #nav li ul li a
+    #nav_480 li ul li a
     {
         font-size: 9pt;
     }
 
+    #submenu_480{
+        display: block;
+        margin-top: -42px;
+    }
+
+
+    /* MINIMAL STYLE */
+
+.rmm {
+    display:block;
+    position:relative;
+    width:100%;
+    padding:0px;
+    margin:0 auto !important;
+    text-align: center;
+    line-height:19px !important;
+}
+.rmm * {
+    -webkit-tap-highlight-color:transparent !important;
+    font-family:Arial;
+}
+.rmm a {
+    color:#ebebeb;
+    text-decoration:none;
+}
+.rmm .rmm-main-list, .rmm .rmm-main-list li {
+    margin:0px;
+    padding:0px;
+}
+.rmm ul {
+    display:block;
+    width:auto !important;
+    margin:0 auto !important;
+    overflow:hidden;
+    list-style:none;
+}
+
+.rmm.minimal a {
+    color: #666666;
+    font-family: registersans;
+    text-transform: uppercase;
+
+
+}
+.rmm.minimal a:hover {
+    opacity:0.7;
+}
+.rmm.minimal .rmm-main-list li a {
+    font-family: registersans;
+    color: #666666;
+
+    display:inline-block;
+    padding:8px 30px 8px 30px;
+    margin:0px -3px 0px -3px;
+    font-size:15px;
+}
+.rmm.minimal .rmm-toggled {
+    width:95%;
+    min-height:36px;
+}
+.rmm.minimal .rmm-toggled-controls {
+    display:block;
+    height:36px;
+    color:#333333;
+    text-align:left;
+    position:relative;
+}
+.rmm.minimal .rmm-toggled-title {
+    position:relative;
+    top:9px;
+    left:9px;
+    font-size:16px;
+    color:#33333;
+}
+.rmm.minimal .rmm-button {
+    display:block;
+    position:absolute;
+    right:9px;
+    top:7px;
+}
+
+.rmm.minimal .rmm-button span {
+    display:block;
+    margin:4px 0px 4px 0px;
+    height:2px;
+    background:#333333;
+    width:25px;
+}
+.rmm.minimal .rmm-toggled ul li a {
+    display:block;
+    width:100%;
+    text-align:center;
+    padding:10px 0px 10px 0px;
+    border-bottom:1px solid #dedede;
+    color:#333333;
+}
+.rmm.minimal .rmm-toggled ul li:first-child a {
+    border-top:1px solid #dedede;
+}
+/**/
 
     .logos 
     {
@@ -775,19 +883,20 @@
     .movie {
         position: relative;
         display: inline-block;
+        margin: 7px;
     }
 
     .span_hover {
         color: white;
-        bottom: 7px;
+        bottom: 0px;
         display: none;
         height: 100%;
-        left: 5px;
+        left: 0px;
         position: absolute;
         font-family: brixslab-regular;
         font-size: 12pt;
-        padding-top: 70px;
-        right: -9px;
+        padding-top: 0px;
+        right: 0px;
         width: 100%;
         background-color: rgba(0,0,0,0.6);
         
@@ -1844,6 +1953,7 @@
 
     #books
     {
+        display: block;
        width: 100%;
        height: auto;
        margin-top: 0px; 
@@ -1853,6 +1963,7 @@
 
     .books_480
     {
+        display: block;
         margin-top: 0px;
         width: 100%;
     }
@@ -1884,23 +1995,24 @@
     .movie {
         position: relative;
         display: inline-block;
+        margin: 7px;
     }
 
     .span_hover {
         background-color: rgba(0, 0, 0, 0.6);
-        bottom: 7px;
+        bottom: 0px;
         color: #FFFFFF;
         display: none;
         font-family: brixslab-light;
         font-size: 12pt;
-        height: 99%;
-        left: 2px;
+        height: 100%;
+        left: 0px;
         position: absolute;
-        right: -9px;
-        top: 1px;
-        width: 97%;
+        right: 0px;
+        top: 0px;
+        width: 100%;
         text-align: center;
-        padding-top: 13px;
+        padding-top: 0px;
     }
 
     .movie:hover img {

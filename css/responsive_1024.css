@@ -52,7 +52,14 @@
     
     
     /* Section hides */
-    #nav_mobile
+     #rmm{
+        display: none;
+    }
+    #submenu_480{
+        display: none;
+    }
+    /* Section hides */
+    #nav_480
     {
         display: none;
     }
@@ -159,7 +166,7 @@
     }
 
     #nav{
-        
+        display: block;
         font-size: 15pt;
         display: block;
         margin-left: -76px;
@@ -811,19 +818,20 @@
     .movie {
         position: relative;
         display: inline-block;
+        margin: 7px;
     }
 
     .span_hover {
         color: white;
-        bottom: 7px;
+        bottom: 0px;
         display: none;
         height: 100%;
-        left: 5px;
+        left: 0px;
         position: absolute;
         font-family: brixslab-regular;
         font-size: 12pt;
-        padding-top: 70px;
-        right: -9px;
+        padding-top: 0px;
+        right: 0px;
         width: 100%;
         background-color: rgba(0,0,0,0.6);
         
@@ -1903,7 +1911,7 @@
          /* Books */
     #books
     {
-      
+      display: block;
        margin-top: 30px !important;
        height: auto;
        margin-top: 0px; 
@@ -1928,6 +1936,7 @@
 
     .books_1024_container
     {
+        display: block;
         margin-top: 0px;
         width: 100%;
     }
@@ -1959,23 +1968,24 @@
     .movie {
         position: relative;
         display: inline-block;
+        margin: 7px;
     }
 
     .span_hover {
         background-color: rgba(0, 0, 0, 0.6);
-        bottom: 7px;
+        bottom: 0px;
         color: #FFFFFF;
         display: none;
         font-family: brixslab-light;
         font-size: 12pt;
-        height: 99%;
-        left: 2px;
+        height: 100%;
+        left: 0px;
         position: absolute;
-        right: -9px;
-        top: 1px;
-        width: 97%;
+        right: 0px;
+        top: 0px;
+        width: 100%;
         text-align: center;
-        padding-top: 13px;
+        padding-top: 0px;
     }
 
     .movie:hover img {
