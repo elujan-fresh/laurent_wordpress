@@ -8,87 +8,87 @@
 
         <ul id="slideshowImgStyle_1600"> 
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image1.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image1.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image1.png"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image2.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image2.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image2.png"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image3.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image3.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image3.png" />
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image4.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image4.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image4.png"/>
               </a>
             </li>
 
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image1.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image1.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image1.png"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image2.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image2.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image2.png"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image3.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image3.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image3.png" />
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1600/home/image4.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image4.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/1600/home/image4.png"/>
               </a>
             </li>
           </ul>
 
           <ul id="slideshowImgStyle_1024"> 
-            <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagehitchcock.jpg">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/imagehitchcock.jpg"/>
+              <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image1.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/home/image1.jpg"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagelincoln.jpg">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/imagelincoln.jpg"/>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image2.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/home/image2.jpg"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagepolaski.jpg">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/imagepolaski.jpg" />
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image3.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/home/image3.jpg" />
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/image4.png">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/image4.png"/>
-              </a>
-            </li>
-             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagehitchcock.jpg">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/imagehitchcock.jpg"/>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image4.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/home/image4.png"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagelincoln.jpg">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/imagelincoln.jpg"/>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image1.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/home/image1.jpg"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/imagepolaski.jpg">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/imagepolaski.jpg" />
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image2.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/home/image2.jpg"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/image4.png">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/image4.png"/>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image3.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/home/image3.jpg" />
+              </a>
+            </li>
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/bigCarrusel/image4.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/1024/home/image4.png"/>
               </a>
             </li>
           </ul>
@@ -96,42 +96,42 @@
 
           <ul id="slideshowImgStyle_768"> 
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image1.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/home/image1.jpg">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image1.png"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image2.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/home/image2.jpg">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image2.png"/>
               </a>
             </li>
            <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image3.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/home/image3.jpg">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image3.png"/>
               </a>
             </li>
            <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image4.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/home/image4.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image4.png"/>
               </a>
             </li>
-             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image1.png">
+            <li>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/home/image1.jpg">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image1.png"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image2.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/home/image2.jpg">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image2.png"/>
               </a>
             </li>
            <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image3.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/home/image3.jpg">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image3.png"/>
               </a>
             </li>
            <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image4.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/1024/home/image4.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/768/home/image4.png"/>
               </a>
             </li>
@@ -140,42 +140,42 @@
 
         <ul id="slideshowImgStyle_480"> 
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image1.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image1.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image1.png"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image2.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image2.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image2.png"/>
               </a>
             </li>
            <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image3.png">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image4.png"/>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image3.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image3.png"/>
               </a>
             </li>
            <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image4.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image4.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image4.png"/>
               </a>
             </li>
              <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image1.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image1.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image1.png"/>
               </a>
             </li>
             <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image2.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image2.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image2.png"/>
               </a>
             </li>
            <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image3.png">
-                <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image4.png"/>
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image3.png">
+                <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image3.png"/>
               </a>
             </li>
            <li>
-              <a href="<?php echo get_template_directory_uri(); ?>/img/480/home/image4.png">
+              <a href="<?php echo get_template_directory_uri(); ?>/img/768/home/image4.png">
                 <img  src="<?php echo get_template_directory_uri(); ?>/img/480/home/image4.png"/>
               </a>
             </li>

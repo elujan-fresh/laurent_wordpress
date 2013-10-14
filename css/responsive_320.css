@@ -1,11 +1,50 @@
 
 
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
 
+
+@font-face
+{
+    font-family: registersans;
+    src: url('../fonts/register-sans-btn-lt.ttf');
+} 
+
+@font-face
+{
+    font-family: brixslab-boldItalica ;
+    src: url('../fonts/BrixSlab-BoldItalic.ttf');
+}
+
+@font-face
+{
+    font-family: brixslab-regularItalica ;
+    src: url('../fonts/BrixSlab-RegularItalic.ttf');
+}
+@font-face
+{
+    font-family: brixslab-extraLightItalica ;
+    src: url('../fonts/BrixSlab-ExtraLightItalic.ttf');
+}
+
+@font-face
+{
+    font-family: brixslab-light ;
+    src: url('../fonts/BrixSlab-Light.ttf');
+}
+
+@font-face
+{
+    font-family: brixslab-media ;
+    src: url('../fonts/BrixSlab-Medium.ttf');
+}
+
+@font-face
+{
+    font-family: brixslab-regular ;
+    src: url('../fonts/BrixSlab-Regular.ttf');
+}
 
 @media (min-width: 1px) and (max-width: 399px) {
     
@@ -370,7 +409,7 @@
     #slideimage 
     {
         margin: 0 auto;
-        width: 333px !important;
+        width: 334px !important;
         float: left;
         margin-top: 2px;
         height: 147px !important;
@@ -579,7 +618,7 @@
     {
         color : #520152;
         font-size: 10pt;
-        line-height: 22px;
+        line-height: 28px;
 
 
     }
@@ -667,7 +706,7 @@
         background-size:100% 100%;
         font-family:  brixslab-regular;
         width: 480px;
-        height: 147px;
+        height: 180px;
         background-color:#202020;
         margin: 0 auto;
         margin-top: 20px;
@@ -1351,7 +1390,7 @@
        min-width: 490px;
        width: 100%;
        font-family: registersans;
-         position: fixed;
+        /*position: fixed;*/
 
         
     }
@@ -1375,11 +1414,11 @@
 
 
 
-//* ABOUT */
+/* ABOUT */
     #aboutContent
     {
         width: 480px;
-        height: 783px;
+        height: 1000px;
         background-color: #919191;
         margin: 0 auto;
         margin-top: 20px;
@@ -1419,7 +1458,7 @@
 
      #aboutAwards
     {
-        margin-top: -2px; 
+        margin-top: 150px; 
         margin-left: 43px;
         float: left;
         width: 413px;
@@ -1480,7 +1519,7 @@
 
     #documentaries
     {
-        width: 463pxpx;
+        width: 100%;
         height: 753px;
         background: #979797;        
         background-image: url('../img/480/post/background.png');
@@ -1544,7 +1583,7 @@
     
     #line
     {
-        width: 412px !important;
+        width: 100% !important;
         height: 1px !important;
         margin: -10px 1px 0px -14px;
         background-image: url('../img/768/post/line.png');
@@ -1957,11 +1996,11 @@
        width: 100%;
        height: auto;
        margin-top: 0px; 
-       margin-bottom: -177px;
+       /*margin-bottom: -177px;*/
 
     }
 
-    .books_480
+  .books_480_container
     {
         display: block;
         margin-top: 0px;
@@ -2035,13 +2074,13 @@
     #documentariesOtherCompact_content
     {
         width: 480px;
-        height: 993px;
+        height: 1100px;
         background-color: #919191;
         margin: 0 auto;
         margin-top: 26px;
         font-family: brixslab-light;
 
-        background-image: url('../img/480/misc/background.png');
+        background-image: url('../img/480/books/background.png');
         background-repeat: repeat-x;
         background-position: center;
         background-origin:content-box;
@@ -2091,7 +2130,7 @@
         color: black;
         font-size: 10pt;
         width: 300px;
-        line-height:0.99;
+        line-height:1.2;
 
     }
 
@@ -2119,7 +2158,7 @@
         color: black;
         font-size: 10pt;
         width: 300px;
-        line-height:0.99;
+        line-height:1.2;
 
     }
 

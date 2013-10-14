@@ -87,3 +87,40 @@ $(window).load(function (){
 	
 	
 });
+function loadBooks(res){
+	var counter = 0;
+	var dir = "wp-content/themes/laurent_wordpress/img/"+res+"/books/gallery";
+
+	var fileextension = ".png";
+	$.ajax({
+	    //This will retrieve the contents of the folder if the folder is configured as 'browsable'
+	    url: dir,
+	    success: function (data) {
+	        //List all png file names in the page
+			var allData = $(data).find("a:contains(" + fileextension + ")");
+	        $(data).find("a:contains(" + fileextension + ")").each(function () {
+	            var filename = this.href.replace(window.location.host, "").replace("http:///", "");
+	            filename = filename.replace(filename.substring(filename.indexOf('/'),0),"")
+				console.log(dir + filename);
+					if(res==480){
+					 	$('#listado_480').append($("<li><div class='movie'><img src=" + dir + filename + "></img><span class='span_hover'><p>"+counter+"</p></span></div></li>"));
+					}
+					else if(res==768){
+					 	$('#listado_768').append($("<li><div class='movie'><img src=" + dir + filename + "></img><span class='span_hover'><p>"+counter+"</p></span></div></li>"));
+					}
+					else if(res==1024){
+					 	$('#listado_1024').append($("<li><div class='movie'><img src=" + dir + filename + "></img><span class='span_hover'><p>"+counter+"</p></span></div></li>"));
+					}
+					else if(res==1600){
+					 	$('#listado_1600').append($("<li><div class='movie'><img src=" + dir + filename + "></img><span class='span_hover'><p>"+counter+"</p></span></div></li>"));
+					}
+	            counter++;
+
+	        });
+	    }
+	});
+
+}
+
+
+

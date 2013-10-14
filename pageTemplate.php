@@ -1,6 +1,3 @@
-<?php
-include('header.php');
-?>
 
 
 <div id="documentaries">
@@ -22,10 +19,41 @@ include('header.php');
           The conversations were recorded during Roman Polanski‘s stay in his home in Gstaad where he was under house arrest for several months after he was apprehended on his way to the Zurich Film Festival in 2009. The conversations are illustrated with excerpts from Polanski’s films, news footage, press clippings, private and exclusive photos, and documents chronicling the filmmaker’s extraordinary life.   The film premiered at the Zurich Film Festival in 2011..
           </p>
           <div id="documentaries_paginator">
-                        
-              <ul>
-                <li class="active"><span class="paginator_active">1</span></li>
-                <li><span class="paginator"><a href="http://69.89.31.69/~nedlandm/lb/templatepage_polanski2" style="text-decoration:none;">2</a></span></li>
+             <ul>
+
+                    <?php
+
+                        //<li class="active"><span class="paginator_active">1</span></li>
+                        //<li><span class="paginator"><a href="http://69.89.31.69/~nedlandm/lb/templatepage_polanski2" style="text-decoration:none;">2</a></span></li>
+               
+                      
+                      $post = new WP_Query( 
+                        array(
+                          
+                          'post_type'=>"post", 
+                          'orderby' => "post_date", 
+                          'order' => "DESC" 
+                        ) 
+                      );
+                      $recent_posts = wp_get_recent_posts();
+                      
+                    ?>
+                    <?php 
+                        $count = 0 ;
+                        foreach ($recent_posts as $p) {
+
+                          if($count <= 5)
+                          {
+
+                          # code...
+                    ?>
+                    <li><span class="paginator"><a  href="<?php echo $p['guid']; ?>" style="text-decoration:none;"><?php echo $count+1;?></a></div>
+                    <?php
+                          }
+                          $count++;
+                        }
+                    ?>
+             
                
               </ul>
             
@@ -33,7 +61,3 @@ include('header.php');
         </div>
         
       </div>
-
-<?php 
-include('footer.php');
-?>

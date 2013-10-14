@@ -5,6 +5,48 @@
    ========================================================================== */
 
 
+@font-face
+{
+    font-family: registersans;
+    src: url('../fonts/register-sans-btn-lt.ttf');
+} 
+
+@font-face
+{
+    font-family: brixslab-boldItalica ;
+    src: url('../fonts/BrixSlab-BoldItalic.ttf');
+}
+
+@font-face
+{
+    font-family: brixslab-regularItalica ;
+    src: url('../fonts/BrixSlab-RegularItalic.ttf');
+}
+@font-face
+{
+    font-family: brixslab-extraLightItalica ;
+    src: url('../fonts/BrixSlab-ExtraLightItalic.ttf');
+}
+
+@font-face
+{
+    font-family: brixslab-light ;
+    src: url('../fonts/BrixSlab-Light.ttf');
+}
+
+@font-face
+{
+    font-family: brixslab-media ;
+    src: url('../fonts/BrixSlab-Medium.ttf');
+}
+
+@font-face
+{
+    font-family: brixslab-regular ;
+    src: url('../fonts/BrixSlab-Regular.ttf');
+}
+
+
 @media (min-width: 768px) and (max-width: 1023px) {
     
     #rmm{
@@ -263,11 +305,11 @@
     #slideimage 
     {
         margin: 0 auto;
-        width: 650px !important;
+        width: 689px !important;
         float: left;
         margin-top: 12px;
         height: 306px;
-        margin-left: -6px;
+        margin-left: -26px;
         overflow: hidden;
 
 
@@ -1105,7 +1147,7 @@
        height: 37px;
        width: 100%;
        font-family: registersans;
-         position: fixed;
+        /*position: fixed;*/
 
         
     }
@@ -1223,8 +1265,8 @@
 
     #documentaries
     {
-        width: 861px;
-        height: 458px;
+        width: 688px;
+        height: 526px;
         background: #979797;        
         margin: 26px auto 0 auto;
 
@@ -1240,9 +1282,9 @@
     {
         width: 100%;
         height: 100%;
-        padding-left: 135px; 
-        padding-right: 135px;
-        padding-top: 31px;
+        padding-left: 81px; 
+        padding-right: 81px;
+        padding-top: 13px;
         font-family: brixslab-regular;
     }
 
@@ -1257,12 +1299,11 @@
     .documentaries_title
     {
        
-     
         text-align: center;
         word-spacing: .2em;
         text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.75);
         color: white;
-        font-size: 19pt;
+        font-size: 16pt;
         font-family: brixslab-light;
         
 
@@ -1270,10 +1311,14 @@
 
     .documentaries_quote
     {
-        font-size: 10pt;
+        font-size: 12pt;
         color: white;
         font-weight: lighter;
         padding:11px;
+        width: 610px;
+        margin-left: -40px;
+        font-family: brixslab-light;
+        height: 48px;
         
         
     }
@@ -1288,10 +1333,11 @@
     
     #line
     {
-        width: 594px !important;
+        width: 596px !important;
         height: 1px !important;
-        margin: -10px 1px 0px -3px;
         background-image: url('../img/768/post/line.png');
+        margin-top: 16px;
+        margin-left: -32px;
     }
     
 
@@ -1301,6 +1347,7 @@
         font-size: 10pt;
         text-align: justify;
         color: black;
+        width: 525px;
         
         
 
@@ -1863,7 +1910,7 @@
        width: 100%;
        height: auto;
        margin-top: 0px; 
-       margin-bottom: -177px;
+       /*margin-bottom: -177px;*/
 
     }
     
@@ -2001,7 +2048,7 @@
 
     #documentariesOtherCompact_compact
     {
-        margin-top: -506px;
+        margin-top: -502px;
         margin-left: 623px;
         float: left;
         width: 280px;
@@ -2012,7 +2059,6 @@
         color: black;
         font-size: 10pt;
         width: 229px;
-        line-height:1.99;
 
     }
 
@@ -2029,7 +2075,7 @@
 
   #documentariesOtherCompact_other
     {
-        margin-top: -142px;
+        margin-top: -137px;
         margin-left: 623px;
         float: left;
         width: 280px;
@@ -2040,7 +2086,6 @@
         color: black;
         font-size: 10pt;
         width: 229px;
-        line-height:1.99;
 
     }
 

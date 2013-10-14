@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Laurent Bouzereau</title>
-        <meta name=viewport content="width=device-width, initial-scale=5.0, minimum-scale=0.5 maximum-scale=1.0">
+        <meta name=viewport content="width=device-width, initial-scale=0.5, minimum-scale=0.5 maximum-scale=1.0">
         <meta name="description" content="<?php bloginfo('description'); ?>">
         <meta name="author" content="">
 
@@ -13,12 +13,12 @@
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/font-awesome.css">
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/normalize.css">
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_320.css">
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_460.css">
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_480.css">
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_768.css">
-        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_1024.css">
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_1600.css">
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_1024.css">
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_768.css">
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_480.css">
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_460.css">
+        <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/responsive_320.css">
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/carruselStyle.css">
 
 
